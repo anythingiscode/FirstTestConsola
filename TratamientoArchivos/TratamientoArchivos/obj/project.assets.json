@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ROL\\C#\\APPs\\Test1\\TratamientoArchivos\\TratamientoArchivos\\TratamientoArchivos.csproj",
+      "projectUniqueName": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\TratamientoArchivos\\TratamientoArchivos\\TratamientoArchivos.csproj",
       "projectName": "TratamientoArchivos",
-      "projectPath": "C:\\ROL\\C#\\APPs\\Test1\\TratamientoArchivos\\TratamientoArchivos\\TratamientoArchivos.csproj",
+      "projectPath": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\TratamientoArchivos\\TratamientoArchivos\\TratamientoArchivos.csproj",
       "packagesPath": "C:\\Users\\ROL\\.nuget\\packages\\",
-      "outputPath": "C:\\ROL\\C#\\APPs\\Test1\\TratamientoArchivos\\TratamientoArchivos\\obj\\",
+      "outputPath": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\TratamientoArchivos\\TratamientoArchivos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ROL\\AppData\\Roaming\\NuGet\\NuGet.Config",
