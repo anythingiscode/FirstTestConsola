@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\ExempleFilesWork\ExempleFilesWork\bin\Debug\net6.0\ExempleFilesWork.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\ExempleFilesWork\ExempleFilesWork\bin\Debug\net6.0\ExempleFilesWork.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\ExempleFilesWork\ExempleFilesWork\bin\Debug\net6.0\ExempleFilesWork.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\ExempleFilesWork\ExempleFilesWork\bin\Debug\net6.0\ExempleFilesWork.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\ExempleFilesWork\ExempleFilesWork\bin\Debug\net6.0\ExempleFilesWork.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\ExempleFilesWork\ExempleFilesWork\obj\Debug\net6.0\ExempleFilesWork.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\ExempleFilesWork\ExempleFilesWork\obj\Debug\net6.0\ExempleFilesWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\ExempleFilesWork\ExempleFilesWork\obj\Debug\net6.0\ExempleFilesWork.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\ExempleFilesWork\ExempleFilesWork\obj\Debug\net6.0\ExempleFilesWork.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\ExempleFilesWork\ExempleFilesWork\obj\Debug\net6.0\ExempleFilesWork.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\ExempleFilesWork\ExempleFilesWork\obj\Debug\net6.0\ExempleFilesWork.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\ExempleFilesWork\ExempleFilesWork\obj\Debug\net6.0\refint\ExempleFilesWork.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\ExempleFilesWork\ExempleFilesWork\obj\Debug\net6.0\ExempleFilesWork.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\ExempleFilesWork\ExempleFilesWork\obj\Debug\net6.0\ExempleFilesWork.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\ExempleFilesWork\ExempleFilesWork\obj\Debug\net6.0\ref\ExempleFilesWork.dll
