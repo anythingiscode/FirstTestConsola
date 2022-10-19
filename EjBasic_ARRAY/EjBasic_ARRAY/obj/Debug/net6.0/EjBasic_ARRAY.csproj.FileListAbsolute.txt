@@ -1,0 +1,15 @@
+C:\ROL\C#\APPs\Test1\EjBasic_ARRAY\EjBasic_ARRAY\bin\Debug\net6.0\EjBasic_ARRAY.exe
+C:\ROL\C#\APPs\Test1\EjBasic_ARRAY\EjBasic_ARRAY\bin\Debug\net6.0\EjBasic_ARRAY.deps.json
+C:\ROL\C#\APPs\Test1\EjBasic_ARRAY\EjBasic_ARRAY\bin\Debug\net6.0\EjBasic_ARRAY.runtimeconfig.json
+C:\ROL\C#\APPs\Test1\EjBasic_ARRAY\EjBasic_ARRAY\bin\Debug\net6.0\EjBasic_ARRAY.dll
+C:\ROL\C#\APPs\Test1\EjBasic_ARRAY\EjBasic_ARRAY\bin\Debug\net6.0\EjBasic_ARRAY.pdb
+C:\ROL\C#\APPs\Test1\EjBasic_ARRAY\EjBasic_ARRAY\obj\Debug\net6.0\EjBasic_ARRAY.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\EjBasic_ARRAY\EjBasic_ARRAY\obj\Debug\net6.0\EjBasic_ARRAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\ROL\C#\APPs\Test1\EjBasic_ARRAY\EjBasic_ARRAY\obj\Debug\net6.0\EjBasic_ARRAY.AssemblyInfoInputs.cache
+C:\ROL\C#\APPs\Test1\EjBasic_ARRAY\EjBasic_ARRAY\obj\Debug\net6.0\EjBasic_ARRAY.AssemblyInfo.cs
+C:\ROL\C#\APPs\Test1\EjBasic_ARRAY\EjBasic_ARRAY\obj\Debug\net6.0\EjBasic_ARRAY.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\EjBasic_ARRAY\EjBasic_ARRAY\obj\Debug\net6.0\EjBasic_ARRAY.dll
+C:\ROL\C#\APPs\Test1\EjBasic_ARRAY\EjBasic_ARRAY\obj\Debug\net6.0\refint\EjBasic_ARRAY.dll
+C:\ROL\C#\APPs\Test1\EjBasic_ARRAY\EjBasic_ARRAY\obj\Debug\net6.0\EjBasic_ARRAY.pdb
+C:\ROL\C#\APPs\Test1\EjBasic_ARRAY\EjBasic_ARRAY\obj\Debug\net6.0\EjBasic_ARRAY.genruntimeconfig.cache
+C:\ROL\C#\APPs\Test1\EjBasic_ARRAY\EjBasic_ARRAY\obj\Debug\net6.0\ref\EjBasic_ARRAY.dll

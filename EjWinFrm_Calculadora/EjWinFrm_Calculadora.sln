@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjWinFrm_Calculadora", "EjWinFrm_Calculadora\EjWinFrm_Calculadora.csproj", "{6251FDC1-6C65-415D-965C-36301A9B9307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6251FDC1-6C65-415D-965C-36301A9B9307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6251FDC1-6C65-415D-965C-36301A9B9307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6251FDC1-6C65-415D-965C-36301A9B9307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6251FDC1-6C65-415D-965C-36301A9B9307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A3DBF41-599C-4A36-944D-31003D7D0D8E}
+	EndGlobalSection
+EndGlobal

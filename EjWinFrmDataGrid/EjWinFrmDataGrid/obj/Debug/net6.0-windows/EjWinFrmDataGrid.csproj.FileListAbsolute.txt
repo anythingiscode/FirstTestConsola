@@ -1,0 +1,17 @@
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\bin\Debug\net6.0-windows\EjWinFrmDataGrid.exe
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\bin\Debug\net6.0-windows\EjWinFrmDataGrid.deps.json
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\bin\Debug\net6.0-windows\EjWinFrmDataGrid.runtimeconfig.json
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\bin\Debug\net6.0-windows\EjWinFrmDataGrid.dll
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\bin\Debug\net6.0-windows\EjWinFrmDataGrid.pdb
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\obj\Debug\net6.0-windows\EjWinFrmDataGrid.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\obj\Debug\net6.0-windows\EjWinFrmDataGrid.frmDGV.resources
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\obj\Debug\net6.0-windows\EjWinFrmDataGrid.csproj.GenerateResource.cache
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\obj\Debug\net6.0-windows\EjWinFrmDataGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\obj\Debug\net6.0-windows\EjWinFrmDataGrid.AssemblyInfoInputs.cache
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\obj\Debug\net6.0-windows\EjWinFrmDataGrid.AssemblyInfo.cs
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\obj\Debug\net6.0-windows\EjWinFrmDataGrid.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\obj\Debug\net6.0-windows\EjWinFrmDataGrid.dll
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\obj\Debug\net6.0-windows\refint\EjWinFrmDataGrid.dll
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\obj\Debug\net6.0-windows\EjWinFrmDataGrid.pdb
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\obj\Debug\net6.0-windows\EjWinFrmDataGrid.genruntimeconfig.cache
+C:\ROL\C#\APPs\Test1\EjWinFrmDataGrid\EjWinFrmDataGrid\obj\Debug\net6.0-windows\ref\EjWinFrmDataGrid.dll

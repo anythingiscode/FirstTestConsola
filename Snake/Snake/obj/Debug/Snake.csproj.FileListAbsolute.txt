@@ -1,0 +1,8 @@
+C:\ROL\C#\APPs\Test1\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\ROL\C#\APPs\Test1\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\Snake\Snake\bin\Debug\Snake.exe.config
+C:\ROL\C#\APPs\Test1\Snake\Snake\bin\Debug\Snake.exe
+C:\ROL\C#\APPs\Test1\Snake\Snake\bin\Debug\Snake.pdb
+C:\ROL\C#\APPs\Test1\Snake\Snake\obj\Debug\Snake.exe
+C:\ROL\C#\APPs\Test1\Snake\Snake\obj\Debug\Snake.pdb

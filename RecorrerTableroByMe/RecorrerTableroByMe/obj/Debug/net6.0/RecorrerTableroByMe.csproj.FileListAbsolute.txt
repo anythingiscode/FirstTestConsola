@@ -1,0 +1,15 @@
+C:\ROL\C#\APPs\Test1\RecorrerTableroByMe\RecorrerTableroByMe\obj\Debug\net6.0\RecorrerTableroByMe.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\RecorrerTableroByMe\RecorrerTableroByMe\obj\Debug\net6.0\RecorrerTableroByMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\ROL\C#\APPs\Test1\RecorrerTableroByMe\RecorrerTableroByMe\obj\Debug\net6.0\RecorrerTableroByMe.AssemblyInfoInputs.cache
+C:\ROL\C#\APPs\Test1\RecorrerTableroByMe\RecorrerTableroByMe\obj\Debug\net6.0\RecorrerTableroByMe.AssemblyInfo.cs
+C:\ROL\C#\APPs\Test1\RecorrerTableroByMe\RecorrerTableroByMe\obj\Debug\net6.0\RecorrerTableroByMe.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\RecorrerTableroByMe\RecorrerTableroByMe\bin\Debug\net6.0\RecorrerTableroByMe.exe
+C:\ROL\C#\APPs\Test1\RecorrerTableroByMe\RecorrerTableroByMe\bin\Debug\net6.0\RecorrerTableroByMe.deps.json
+C:\ROL\C#\APPs\Test1\RecorrerTableroByMe\RecorrerTableroByMe\bin\Debug\net6.0\RecorrerTableroByMe.runtimeconfig.json
+C:\ROL\C#\APPs\Test1\RecorrerTableroByMe\RecorrerTableroByMe\bin\Debug\net6.0\RecorrerTableroByMe.dll
+C:\ROL\C#\APPs\Test1\RecorrerTableroByMe\RecorrerTableroByMe\bin\Debug\net6.0\RecorrerTableroByMe.pdb
+C:\ROL\C#\APPs\Test1\RecorrerTableroByMe\RecorrerTableroByMe\obj\Debug\net6.0\RecorrerTableroByMe.dll
+C:\ROL\C#\APPs\Test1\RecorrerTableroByMe\RecorrerTableroByMe\obj\Debug\net6.0\refint\RecorrerTableroByMe.dll
+C:\ROL\C#\APPs\Test1\RecorrerTableroByMe\RecorrerTableroByMe\obj\Debug\net6.0\RecorrerTableroByMe.pdb
+C:\ROL\C#\APPs\Test1\RecorrerTableroByMe\RecorrerTableroByMe\obj\Debug\net6.0\RecorrerTableroByMe.genruntimeconfig.cache
+C:\ROL\C#\APPs\Test1\RecorrerTableroByMe\RecorrerTableroByMe\obj\Debug\net6.0\ref\RecorrerTableroByMe.dll

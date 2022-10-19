@@ -1,0 +1,15 @@
+C:\ROL\C#\APPs\Test1\EjLeertxt\EjLeertxt\bin\Debug\net6.0\EjLeertxt.exe
+C:\ROL\C#\APPs\Test1\EjLeertxt\EjLeertxt\bin\Debug\net6.0\EjLeertxt.deps.json
+C:\ROL\C#\APPs\Test1\EjLeertxt\EjLeertxt\bin\Debug\net6.0\EjLeertxt.runtimeconfig.json
+C:\ROL\C#\APPs\Test1\EjLeertxt\EjLeertxt\bin\Debug\net6.0\EjLeertxt.dll
+C:\ROL\C#\APPs\Test1\EjLeertxt\EjLeertxt\bin\Debug\net6.0\EjLeertxt.pdb
+C:\ROL\C#\APPs\Test1\EjLeertxt\EjLeertxt\obj\Debug\net6.0\EjLeertxt.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\EjLeertxt\EjLeertxt\obj\Debug\net6.0\EjLeertxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\ROL\C#\APPs\Test1\EjLeertxt\EjLeertxt\obj\Debug\net6.0\EjLeertxt.AssemblyInfoInputs.cache
+C:\ROL\C#\APPs\Test1\EjLeertxt\EjLeertxt\obj\Debug\net6.0\EjLeertxt.AssemblyInfo.cs
+C:\ROL\C#\APPs\Test1\EjLeertxt\EjLeertxt\obj\Debug\net6.0\EjLeertxt.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\EjLeertxt\EjLeertxt\obj\Debug\net6.0\EjLeertxt.dll
+C:\ROL\C#\APPs\Test1\EjLeertxt\EjLeertxt\obj\Debug\net6.0\refint\EjLeertxt.dll
+C:\ROL\C#\APPs\Test1\EjLeertxt\EjLeertxt\obj\Debug\net6.0\EjLeertxt.pdb
+C:\ROL\C#\APPs\Test1\EjLeertxt\EjLeertxt\obj\Debug\net6.0\EjLeertxt.genruntimeconfig.cache
+C:\ROL\C#\APPs\Test1\EjLeertxt\EjLeertxt\obj\Debug\net6.0\ref\EjLeertxt.dll

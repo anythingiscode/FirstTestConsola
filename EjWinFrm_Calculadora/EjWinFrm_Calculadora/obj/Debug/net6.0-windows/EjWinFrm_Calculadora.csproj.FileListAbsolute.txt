@@ -1,0 +1,17 @@
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\bin\Debug\net6.0-windows\EjWinFrm_Calculadora.exe
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\bin\Debug\net6.0-windows\EjWinFrm_Calculadora.deps.json
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\bin\Debug\net6.0-windows\EjWinFrm_Calculadora.runtimeconfig.json
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\bin\Debug\net6.0-windows\EjWinFrm_Calculadora.dll
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\bin\Debug\net6.0-windows\EjWinFrm_Calculadora.pdb
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\obj\Debug\net6.0-windows\EjWinFrm_Calculadora.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\obj\Debug\net6.0-windows\EjWinFrm_Calculadora.FrmCalc.resources
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\obj\Debug\net6.0-windows\EjWinFrm_Calculadora.csproj.GenerateResource.cache
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\obj\Debug\net6.0-windows\EjWinFrm_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\obj\Debug\net6.0-windows\EjWinFrm_Calculadora.AssemblyInfoInputs.cache
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\obj\Debug\net6.0-windows\EjWinFrm_Calculadora.AssemblyInfo.cs
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\obj\Debug\net6.0-windows\EjWinFrm_Calculadora.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\obj\Debug\net6.0-windows\EjWinFrm_Calculadora.dll
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\obj\Debug\net6.0-windows\refint\EjWinFrm_Calculadora.dll
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\obj\Debug\net6.0-windows\EjWinFrm_Calculadora.pdb
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\obj\Debug\net6.0-windows\EjWinFrm_Calculadora.genruntimeconfig.cache
+C:\ROL\C#\APPs\Test1\EjWinFrm_Calculadora\EjWinFrm_Calculadora\obj\Debug\net6.0-windows\ref\EjWinFrm_Calculadora.dll

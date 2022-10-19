@@ -1,0 +1,15 @@
+C:\ROL\C#\APPs\Test1\TratamientoArchivos\TratamientoArchivos\bin\Debug\net6.0\TratamientoArchivos.exe
+C:\ROL\C#\APPs\Test1\TratamientoArchivos\TratamientoArchivos\bin\Debug\net6.0\TratamientoArchivos.deps.json
+C:\ROL\C#\APPs\Test1\TratamientoArchivos\TratamientoArchivos\bin\Debug\net6.0\TratamientoArchivos.runtimeconfig.json
+C:\ROL\C#\APPs\Test1\TratamientoArchivos\TratamientoArchivos\bin\Debug\net6.0\TratamientoArchivos.dll
+C:\ROL\C#\APPs\Test1\TratamientoArchivos\TratamientoArchivos\bin\Debug\net6.0\TratamientoArchivos.pdb
+C:\ROL\C#\APPs\Test1\TratamientoArchivos\TratamientoArchivos\obj\Debug\net6.0\TratamientoArchivos.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\TratamientoArchivos\TratamientoArchivos\obj\Debug\net6.0\TratamientoArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ROL\C#\APPs\Test1\TratamientoArchivos\TratamientoArchivos\obj\Debug\net6.0\TratamientoArchivos.AssemblyInfoInputs.cache
+C:\ROL\C#\APPs\Test1\TratamientoArchivos\TratamientoArchivos\obj\Debug\net6.0\TratamientoArchivos.AssemblyInfo.cs
+C:\ROL\C#\APPs\Test1\TratamientoArchivos\TratamientoArchivos\obj\Debug\net6.0\TratamientoArchivos.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\TratamientoArchivos\TratamientoArchivos\obj\Debug\net6.0\TratamientoArchivos.dll
+C:\ROL\C#\APPs\Test1\TratamientoArchivos\TratamientoArchivos\obj\Debug\net6.0\refint\TratamientoArchivos.dll
+C:\ROL\C#\APPs\Test1\TratamientoArchivos\TratamientoArchivos\obj\Debug\net6.0\TratamientoArchivos.pdb
+C:\ROL\C#\APPs\Test1\TratamientoArchivos\TratamientoArchivos\obj\Debug\net6.0\TratamientoArchivos.genruntimeconfig.cache
+C:\ROL\C#\APPs\Test1\TratamientoArchivos\TratamientoArchivos\obj\Debug\net6.0\ref\TratamientoArchivos.dll

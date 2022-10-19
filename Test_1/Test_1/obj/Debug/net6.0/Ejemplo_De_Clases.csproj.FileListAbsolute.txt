@@ -1,0 +1,15 @@
+C:\ROL\C#\APPs\Test1\Test_1\Test_1\bin\Debug\net6.0\Ejemplo_De_Clases.exe
+C:\ROL\C#\APPs\Test1\Test_1\Test_1\bin\Debug\net6.0\Ejemplo_De_Clases.deps.json
+C:\ROL\C#\APPs\Test1\Test_1\Test_1\bin\Debug\net6.0\Ejemplo_De_Clases.runtimeconfig.json
+C:\ROL\C#\APPs\Test1\Test_1\Test_1\bin\Debug\net6.0\Ejemplo_De_Clases.dll
+C:\ROL\C#\APPs\Test1\Test_1\Test_1\bin\Debug\net6.0\Ejemplo_De_Clases.pdb
+C:\ROL\C#\APPs\Test1\Test_1\Test_1\obj\Debug\net6.0\Ejemplo_De_Clases.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\Test_1\Test_1\obj\Debug\net6.0\Ejemplo_De_Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\ROL\C#\APPs\Test1\Test_1\Test_1\obj\Debug\net6.0\Ejemplo_De_Clases.AssemblyInfoInputs.cache
+C:\ROL\C#\APPs\Test1\Test_1\Test_1\obj\Debug\net6.0\Ejemplo_De_Clases.AssemblyInfo.cs
+C:\ROL\C#\APPs\Test1\Test_1\Test_1\obj\Debug\net6.0\Ejemplo_De_Clases.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\Test_1\Test_1\obj\Debug\net6.0\Ejemplo_De_Clases.dll
+C:\ROL\C#\APPs\Test1\Test_1\Test_1\obj\Debug\net6.0\refint\Ejemplo_De_Clases.dll
+C:\ROL\C#\APPs\Test1\Test_1\Test_1\obj\Debug\net6.0\Ejemplo_De_Clases.pdb
+C:\ROL\C#\APPs\Test1\Test_1\Test_1\obj\Debug\net6.0\Ejemplo_De_Clases.genruntimeconfig.cache
+C:\ROL\C#\APPs\Test1\Test_1\Test_1\obj\Debug\net6.0\ref\Ejemplo_De_Clases.dll

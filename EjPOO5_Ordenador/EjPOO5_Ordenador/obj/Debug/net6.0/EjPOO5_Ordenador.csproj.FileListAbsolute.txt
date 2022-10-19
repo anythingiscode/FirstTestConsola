@@ -1,0 +1,15 @@
+C:\ROL\C#\APPs\Test1\EjPOO5_Ordenador\EjPOO5_Ordenador\bin\Debug\net6.0\EjPOO5_Ordenador.exe
+C:\ROL\C#\APPs\Test1\EjPOO5_Ordenador\EjPOO5_Ordenador\bin\Debug\net6.0\EjPOO5_Ordenador.deps.json
+C:\ROL\C#\APPs\Test1\EjPOO5_Ordenador\EjPOO5_Ordenador\bin\Debug\net6.0\EjPOO5_Ordenador.runtimeconfig.json
+C:\ROL\C#\APPs\Test1\EjPOO5_Ordenador\EjPOO5_Ordenador\bin\Debug\net6.0\EjPOO5_Ordenador.dll
+C:\ROL\C#\APPs\Test1\EjPOO5_Ordenador\EjPOO5_Ordenador\bin\Debug\net6.0\EjPOO5_Ordenador.pdb
+C:\ROL\C#\APPs\Test1\EjPOO5_Ordenador\EjPOO5_Ordenador\obj\Debug\net6.0\EjPOO5_Ordenador.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\EjPOO5_Ordenador\EjPOO5_Ordenador\obj\Debug\net6.0\EjPOO5_Ordenador.GeneratedMSBuildEditorConfig.editorconfig
+C:\ROL\C#\APPs\Test1\EjPOO5_Ordenador\EjPOO5_Ordenador\obj\Debug\net6.0\EjPOO5_Ordenador.AssemblyInfoInputs.cache
+C:\ROL\C#\APPs\Test1\EjPOO5_Ordenador\EjPOO5_Ordenador\obj\Debug\net6.0\EjPOO5_Ordenador.AssemblyInfo.cs
+C:\ROL\C#\APPs\Test1\EjPOO5_Ordenador\EjPOO5_Ordenador\obj\Debug\net6.0\EjPOO5_Ordenador.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\EjPOO5_Ordenador\EjPOO5_Ordenador\obj\Debug\net6.0\EjPOO5_Ordenador.dll
+C:\ROL\C#\APPs\Test1\EjPOO5_Ordenador\EjPOO5_Ordenador\obj\Debug\net6.0\refint\EjPOO5_Ordenador.dll
+C:\ROL\C#\APPs\Test1\EjPOO5_Ordenador\EjPOO5_Ordenador\obj\Debug\net6.0\EjPOO5_Ordenador.pdb
+C:\ROL\C#\APPs\Test1\EjPOO5_Ordenador\EjPOO5_Ordenador\obj\Debug\net6.0\EjPOO5_Ordenador.genruntimeconfig.cache
+C:\ROL\C#\APPs\Test1\EjPOO5_Ordenador\EjPOO5_Ordenador\obj\Debug\net6.0\ref\EjPOO5_Ordenador.dll

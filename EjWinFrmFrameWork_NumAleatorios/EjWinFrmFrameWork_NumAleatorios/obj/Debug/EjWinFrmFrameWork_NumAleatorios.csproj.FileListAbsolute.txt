@@ -1,0 +1,11 @@
+C:\ROL\C#\APPs\Test1\EjWinFrmFrameWork_NumAleatorios\EjWinFrmFrameWork_NumAleatorios\obj\Debug\EjWinFrmFrameWork_NumAleatorios.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\EjWinFrmFrameWork_NumAleatorios\EjWinFrmFrameWork_NumAleatorios\obj\Debug\EjWinFrmFrameWork_NumAleatorios.csproj.SuggestedBindingRedirects.cache
+C:\ROL\C#\APPs\Test1\EjWinFrmFrameWork_NumAleatorios\EjWinFrmFrameWork_NumAleatorios\obj\Debug\EjWinFrmFrameWork_NumAleatorios.frmNumAleatorios.resources
+C:\ROL\C#\APPs\Test1\EjWinFrmFrameWork_NumAleatorios\EjWinFrmFrameWork_NumAleatorios\obj\Debug\EjWinFrmFrameWork_NumAleatorios.Properties.Resources.resources
+C:\ROL\C#\APPs\Test1\EjWinFrmFrameWork_NumAleatorios\EjWinFrmFrameWork_NumAleatorios\obj\Debug\EjWinFrmFrameWork_NumAleatorios.csproj.GenerateResource.cache
+C:\ROL\C#\APPs\Test1\EjWinFrmFrameWork_NumAleatorios\EjWinFrmFrameWork_NumAleatorios\obj\Debug\EjWinFrmFrameWork_NumAleatorios.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\EjWinFrmFrameWork_NumAleatorios\EjWinFrmFrameWork_NumAleatorios\bin\Debug\EjWinFrmFrameWork_NumAleatorios.exe.config
+C:\ROL\C#\APPs\Test1\EjWinFrmFrameWork_NumAleatorios\EjWinFrmFrameWork_NumAleatorios\bin\Debug\EjWinFrmFrameWork_NumAleatorios.exe
+C:\ROL\C#\APPs\Test1\EjWinFrmFrameWork_NumAleatorios\EjWinFrmFrameWork_NumAleatorios\bin\Debug\EjWinFrmFrameWork_NumAleatorios.pdb
+C:\ROL\C#\APPs\Test1\EjWinFrmFrameWork_NumAleatorios\EjWinFrmFrameWork_NumAleatorios\obj\Debug\EjWinFrmFrameWork_NumAleatorios.exe
+C:\ROL\C#\APPs\Test1\EjWinFrmFrameWork_NumAleatorios\EjWinFrmFrameWork_NumAleatorios\obj\Debug\EjWinFrmFrameWork_NumAleatorios.pdb

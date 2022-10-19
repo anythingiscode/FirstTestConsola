@@ -1,0 +1,15 @@
+C:\ROL\C#\APPs\Test1\EjAleatorio_conClass\EjAleatorio_conClass\bin\Debug\net6.0\EjAleatorio_conClass.exe
+C:\ROL\C#\APPs\Test1\EjAleatorio_conClass\EjAleatorio_conClass\bin\Debug\net6.0\EjAleatorio_conClass.deps.json
+C:\ROL\C#\APPs\Test1\EjAleatorio_conClass\EjAleatorio_conClass\bin\Debug\net6.0\EjAleatorio_conClass.runtimeconfig.json
+C:\ROL\C#\APPs\Test1\EjAleatorio_conClass\EjAleatorio_conClass\bin\Debug\net6.0\EjAleatorio_conClass.dll
+C:\ROL\C#\APPs\Test1\EjAleatorio_conClass\EjAleatorio_conClass\bin\Debug\net6.0\EjAleatorio_conClass.pdb
+C:\ROL\C#\APPs\Test1\EjAleatorio_conClass\EjAleatorio_conClass\obj\Debug\net6.0\EjAleatorio_conClass.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\EjAleatorio_conClass\EjAleatorio_conClass\obj\Debug\net6.0\EjAleatorio_conClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\ROL\C#\APPs\Test1\EjAleatorio_conClass\EjAleatorio_conClass\obj\Debug\net6.0\EjAleatorio_conClass.AssemblyInfoInputs.cache
+C:\ROL\C#\APPs\Test1\EjAleatorio_conClass\EjAleatorio_conClass\obj\Debug\net6.0\EjAleatorio_conClass.AssemblyInfo.cs
+C:\ROL\C#\APPs\Test1\EjAleatorio_conClass\EjAleatorio_conClass\obj\Debug\net6.0\EjAleatorio_conClass.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\EjAleatorio_conClass\EjAleatorio_conClass\obj\Debug\net6.0\EjAleatorio_conClass.dll
+C:\ROL\C#\APPs\Test1\EjAleatorio_conClass\EjAleatorio_conClass\obj\Debug\net6.0\refint\EjAleatorio_conClass.dll
+C:\ROL\C#\APPs\Test1\EjAleatorio_conClass\EjAleatorio_conClass\obj\Debug\net6.0\EjAleatorio_conClass.pdb
+C:\ROL\C#\APPs\Test1\EjAleatorio_conClass\EjAleatorio_conClass\obj\Debug\net6.0\EjAleatorio_conClass.genruntimeconfig.cache
+C:\ROL\C#\APPs\Test1\EjAleatorio_conClass\EjAleatorio_conClass\obj\Debug\net6.0\ref\EjAleatorio_conClass.dll

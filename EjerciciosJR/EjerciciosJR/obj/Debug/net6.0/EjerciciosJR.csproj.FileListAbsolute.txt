@@ -1,0 +1,15 @@
+C:\ROL\C#\APPs\Test1\EjerciciosJR\EjerciciosJR\bin\Debug\net6.0\EjerciciosJR.exe
+C:\ROL\C#\APPs\Test1\EjerciciosJR\EjerciciosJR\bin\Debug\net6.0\EjerciciosJR.deps.json
+C:\ROL\C#\APPs\Test1\EjerciciosJR\EjerciciosJR\bin\Debug\net6.0\EjerciciosJR.runtimeconfig.json
+C:\ROL\C#\APPs\Test1\EjerciciosJR\EjerciciosJR\bin\Debug\net6.0\EjerciciosJR.dll
+C:\ROL\C#\APPs\Test1\EjerciciosJR\EjerciciosJR\bin\Debug\net6.0\EjerciciosJR.pdb
+C:\ROL\C#\APPs\Test1\EjerciciosJR\EjerciciosJR\obj\Debug\net6.0\EjerciciosJR.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\EjerciciosJR\EjerciciosJR\obj\Debug\net6.0\EjerciciosJR.GeneratedMSBuildEditorConfig.editorconfig
+C:\ROL\C#\APPs\Test1\EjerciciosJR\EjerciciosJR\obj\Debug\net6.0\EjerciciosJR.AssemblyInfoInputs.cache
+C:\ROL\C#\APPs\Test1\EjerciciosJR\EjerciciosJR\obj\Debug\net6.0\EjerciciosJR.AssemblyInfo.cs
+C:\ROL\C#\APPs\Test1\EjerciciosJR\EjerciciosJR\obj\Debug\net6.0\EjerciciosJR.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\EjerciciosJR\EjerciciosJR\obj\Debug\net6.0\EjerciciosJR.dll
+C:\ROL\C#\APPs\Test1\EjerciciosJR\EjerciciosJR\obj\Debug\net6.0\refint\EjerciciosJR.dll
+C:\ROL\C#\APPs\Test1\EjerciciosJR\EjerciciosJR\obj\Debug\net6.0\EjerciciosJR.pdb
+C:\ROL\C#\APPs\Test1\EjerciciosJR\EjerciciosJR\obj\Debug\net6.0\EjerciciosJR.genruntimeconfig.cache
+C:\ROL\C#\APPs\Test1\EjerciciosJR\EjerciciosJR\obj\Debug\net6.0\ref\EjerciciosJR.dll

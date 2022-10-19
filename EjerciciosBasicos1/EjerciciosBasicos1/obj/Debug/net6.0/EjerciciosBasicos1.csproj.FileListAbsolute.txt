@@ -1,0 +1,15 @@
+C:\ROL\C#\APPs\Test1\EjerciciosBasicos1\EjerciciosBasicos1\bin\Debug\net6.0\EjerciciosBasicos1.exe
+C:\ROL\C#\APPs\Test1\EjerciciosBasicos1\EjerciciosBasicos1\bin\Debug\net6.0\EjerciciosBasicos1.deps.json
+C:\ROL\C#\APPs\Test1\EjerciciosBasicos1\EjerciciosBasicos1\bin\Debug\net6.0\EjerciciosBasicos1.runtimeconfig.json
+C:\ROL\C#\APPs\Test1\EjerciciosBasicos1\EjerciciosBasicos1\bin\Debug\net6.0\EjerciciosBasicos1.dll
+C:\ROL\C#\APPs\Test1\EjerciciosBasicos1\EjerciciosBasicos1\bin\Debug\net6.0\EjerciciosBasicos1.pdb
+C:\ROL\C#\APPs\Test1\EjerciciosBasicos1\EjerciciosBasicos1\obj\Debug\net6.0\EjerciciosBasicos1.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\EjerciciosBasicos1\EjerciciosBasicos1\obj\Debug\net6.0\EjerciciosBasicos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ROL\C#\APPs\Test1\EjerciciosBasicos1\EjerciciosBasicos1\obj\Debug\net6.0\EjerciciosBasicos1.AssemblyInfoInputs.cache
+C:\ROL\C#\APPs\Test1\EjerciciosBasicos1\EjerciciosBasicos1\obj\Debug\net6.0\EjerciciosBasicos1.AssemblyInfo.cs
+C:\ROL\C#\APPs\Test1\EjerciciosBasicos1\EjerciciosBasicos1\obj\Debug\net6.0\EjerciciosBasicos1.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\EjerciciosBasicos1\EjerciciosBasicos1\obj\Debug\net6.0\EjerciciosBasicos1.dll
+C:\ROL\C#\APPs\Test1\EjerciciosBasicos1\EjerciciosBasicos1\obj\Debug\net6.0\refint\EjerciciosBasicos1.dll
+C:\ROL\C#\APPs\Test1\EjerciciosBasicos1\EjerciciosBasicos1\obj\Debug\net6.0\EjerciciosBasicos1.pdb
+C:\ROL\C#\APPs\Test1\EjerciciosBasicos1\EjerciciosBasicos1\obj\Debug\net6.0\EjerciciosBasicos1.genruntimeconfig.cache
+C:\ROL\C#\APPs\Test1\EjerciciosBasicos1\EjerciciosBasicos1\obj\Debug\net6.0\ref\EjerciciosBasicos1.dll

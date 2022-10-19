@@ -1,0 +1,15 @@
+C:\ROL\C#\APPs\Test1\TrianguloSierpinski\TrianguloSierpinski\bin\Debug\net6.0\TrianguloSierpinski.exe
+C:\ROL\C#\APPs\Test1\TrianguloSierpinski\TrianguloSierpinski\bin\Debug\net6.0\TrianguloSierpinski.deps.json
+C:\ROL\C#\APPs\Test1\TrianguloSierpinski\TrianguloSierpinski\bin\Debug\net6.0\TrianguloSierpinski.runtimeconfig.json
+C:\ROL\C#\APPs\Test1\TrianguloSierpinski\TrianguloSierpinski\bin\Debug\net6.0\TrianguloSierpinski.dll
+C:\ROL\C#\APPs\Test1\TrianguloSierpinski\TrianguloSierpinski\bin\Debug\net6.0\TrianguloSierpinski.pdb
+C:\ROL\C#\APPs\Test1\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net6.0\TrianguloSierpinski.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net6.0\TrianguloSierpinski.GeneratedMSBuildEditorConfig.editorconfig
+C:\ROL\C#\APPs\Test1\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net6.0\TrianguloSierpinski.AssemblyInfoInputs.cache
+C:\ROL\C#\APPs\Test1\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net6.0\TrianguloSierpinski.AssemblyInfo.cs
+C:\ROL\C#\APPs\Test1\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net6.0\TrianguloSierpinski.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net6.0\TrianguloSierpinski.dll
+C:\ROL\C#\APPs\Test1\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net6.0\refint\TrianguloSierpinski.dll
+C:\ROL\C#\APPs\Test1\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net6.0\TrianguloSierpinski.pdb
+C:\ROL\C#\APPs\Test1\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net6.0\TrianguloSierpinski.genruntimeconfig.cache
+C:\ROL\C#\APPs\Test1\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net6.0\ref\TrianguloSierpinski.dll
