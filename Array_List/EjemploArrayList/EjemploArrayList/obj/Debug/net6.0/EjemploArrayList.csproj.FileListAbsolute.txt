@@ -1,0 +1,15 @@
+C:\ROL\C#\APPs\Test1\Array_List\EjemploArrayList\EjemploArrayList\bin\Debug\net6.0\EjemploArrayList.exe
+C:\ROL\C#\APPs\Test1\Array_List\EjemploArrayList\EjemploArrayList\bin\Debug\net6.0\EjemploArrayList.deps.json
+C:\ROL\C#\APPs\Test1\Array_List\EjemploArrayList\EjemploArrayList\bin\Debug\net6.0\EjemploArrayList.runtimeconfig.json
+C:\ROL\C#\APPs\Test1\Array_List\EjemploArrayList\EjemploArrayList\bin\Debug\net6.0\EjemploArrayList.dll
+C:\ROL\C#\APPs\Test1\Array_List\EjemploArrayList\EjemploArrayList\bin\Debug\net6.0\EjemploArrayList.pdb
+C:\ROL\C#\APPs\Test1\Array_List\EjemploArrayList\EjemploArrayList\obj\Debug\net6.0\EjemploArrayList.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\Array_List\EjemploArrayList\EjemploArrayList\obj\Debug\net6.0\EjemploArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\ROL\C#\APPs\Test1\Array_List\EjemploArrayList\EjemploArrayList\obj\Debug\net6.0\EjemploArrayList.AssemblyInfoInputs.cache
+C:\ROL\C#\APPs\Test1\Array_List\EjemploArrayList\EjemploArrayList\obj\Debug\net6.0\EjemploArrayList.AssemblyInfo.cs
+C:\ROL\C#\APPs\Test1\Array_List\EjemploArrayList\EjemploArrayList\obj\Debug\net6.0\EjemploArrayList.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\Array_List\EjemploArrayList\EjemploArrayList\obj\Debug\net6.0\EjemploArrayList.dll
+C:\ROL\C#\APPs\Test1\Array_List\EjemploArrayList\EjemploArrayList\obj\Debug\net6.0\refint\EjemploArrayList.dll
+C:\ROL\C#\APPs\Test1\Array_List\EjemploArrayList\EjemploArrayList\obj\Debug\net6.0\EjemploArrayList.pdb
+C:\ROL\C#\APPs\Test1\Array_List\EjemploArrayList\EjemploArrayList\obj\Debug\net6.0\EjemploArrayList.genruntimeconfig.cache
+C:\ROL\C#\APPs\Test1\Array_List\EjemploArrayList\EjemploArrayList\obj\Debug\net6.0\ref\EjemploArrayList.dll
