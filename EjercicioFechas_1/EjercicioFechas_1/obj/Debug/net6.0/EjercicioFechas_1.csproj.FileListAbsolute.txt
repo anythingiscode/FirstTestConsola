@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioFechas_1\EjercicioFechas_1\bin\Debug\net6.0\EjercicioFechas_1.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioFechas_1\EjercicioFechas_1\bin\Debug\net6.0\EjercicioFechas_1.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioFechas_1\EjercicioFechas_1\bin\Debug\net6.0\EjercicioFechas_1.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioFechas_1\EjercicioFechas_1\bin\Debug\net6.0\EjercicioFechas_1.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioFechas_1\EjercicioFechas_1\bin\Debug\net6.0\EjercicioFechas_1.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioFechas_1\EjercicioFechas_1\obj\Debug\net6.0\EjercicioFechas_1.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioFechas_1\EjercicioFechas_1\obj\Debug\net6.0\EjercicioFechas_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioFechas_1\EjercicioFechas_1\obj\Debug\net6.0\EjercicioFechas_1.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioFechas_1\EjercicioFechas_1\obj\Debug\net6.0\EjercicioFechas_1.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioFechas_1\EjercicioFechas_1\obj\Debug\net6.0\EjercicioFechas_1.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioFechas_1\EjercicioFechas_1\obj\Debug\net6.0\EjercicioFechas_1.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioFechas_1\EjercicioFechas_1\obj\Debug\net6.0\refint\EjercicioFechas_1.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioFechas_1\EjercicioFechas_1\obj\Debug\net6.0\EjercicioFechas_1.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioFechas_1\EjercicioFechas_1\obj\Debug\net6.0\EjercicioFechas_1.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioFechas_1\EjercicioFechas_1\obj\Debug\net6.0\ref\EjercicioFechas_1.dll
