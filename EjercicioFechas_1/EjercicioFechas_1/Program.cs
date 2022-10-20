@@ -18,7 +18,22 @@ internal class Program
         string texto = $"Fecha de log : {fecha.DayOfWeek}, {fecha.Day} de {fecha.ToString("MMMM")} de {fecha.Year}";
         Console.WriteLine(texto);
 
+        //Creación del log
+        EscribirLog(texto);
+        
 
         Console.ReadKey();
     }
+
+    public static void EscribirLog(string msg)
+    {
+        if (!File.Exists(path))
+        {
+            using StreamWriter sw = File.CreateText(path);             
+            //using StreamWriter sw = new StreamWriter(path);   //Otra opcion para crear el fichero
+        }
+        File.AppendAllLines(path, new List<string>{msg});
+        Console.WriteLine($"Se creó nuevo registro en el fichero {path}");
+    }
+
 }
