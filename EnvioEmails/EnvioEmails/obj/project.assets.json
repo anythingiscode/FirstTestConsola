@@ -383,11 +383,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ROL\\C#\\APPs\\Test1\\EnvioEmails\\EnvioEmails\\EnvioEmails.csproj",
+      "projectUniqueName": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EnvioEmails\\EnvioEmails\\EnvioEmails.csproj",
       "projectName": "EnvioEmails",
-      "projectPath": "C:\\ROL\\C#\\APPs\\Test1\\EnvioEmails\\EnvioEmails\\EnvioEmails.csproj",
+      "projectPath": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EnvioEmails\\EnvioEmails\\EnvioEmails.csproj",
       "packagesPath": "C:\\Users\\ROL\\.nuget\\packages\\",
-      "outputPath": "C:\\ROL\\C#\\APPs\\Test1\\EnvioEmails\\EnvioEmails\\obj\\",
+      "outputPath": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EnvioEmails\\EnvioEmails\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ROL\\AppData\\Roaming\\NuGet\\NuGet.Config",

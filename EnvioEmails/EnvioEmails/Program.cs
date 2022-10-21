@@ -7,7 +7,7 @@ internal class Program
         // var smptClient = EmailManager.CreateSmtpClient();
         var mailMessage = EmailManager.CreateMailMessage(
             "mail@rplweb.com", 
-            "admon@rplweb.com", 
+            "admin@rplweb.com", 
             "Test C#", 
             "Si lees esto es que funciona");
 

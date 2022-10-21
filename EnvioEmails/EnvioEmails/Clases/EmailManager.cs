@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Net;
 using System.Net.Mail;
 using System.Configuration;
+using System.Net.Http;
 
 namespace EnvioEmails.Clases
 {
@@ -18,7 +19,7 @@ namespace EnvioEmails.Clases
             string host = ConfigurationManager.AppSettings["host"];
             int port = Convert.ToInt32(ConfigurationManager.AppSettings["port"]);
 
-            SmtpClient smtpClient= new SmtpClient();   ///Opcion abreviada--> SmtpClient smtpClient= new();
+            SmtpClient smtpClient= new SmtpClient();   //Opcion abreviada--> SmtpClient smtpClient= new();
 
             smtpClient.UseDefaultCredentials = false;
             smtpClient.Credentials = new NetworkCredential(username, password);        // Aqui confihuramos id y password
@@ -45,6 +46,10 @@ namespace EnvioEmails.Clases
                 using (var smtpClient = CreateSmtpClient())     //Con esto se "disposeará" el objeto
                 {
                     smtpClient.Send(mailMessage);
+                    Console.WriteLine("El mensaje se envió");
+                    Console.ReadKey();
+
+                    smtpClient.Dispose();
                 }
             }
             catch (Exception ex)
@@ -54,9 +59,8 @@ namespace EnvioEmails.Clases
             }
             finally
             {
-                mailMessage.Dispose();      // Gestionamos el dispose del email
-            }
-            
+                mailMessage.Dispose();      // Gestionamos el dispose del email                
+            }            
         }
     }
 }

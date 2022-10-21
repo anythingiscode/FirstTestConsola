@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CFxYtOePagcGkNhzndYC9X8SMT1Y2ANKCR9V3COWibhO0UcUfKZD31slErxPrcHzDedQJ41I8XKR2ViRqu3Vbg==",
+  "dgSpecHash": "UudwQiaQ1/CoiC+WD/R2Ny1iUDKIJI9+e4jE/Z7/Da42v7LleCiZhZBBi0pgV0hGV2/UR9VVSSQ1fMhhKF3MWA==",
   "success": true,
-  "projectFilePath": "C:\\ROL\\C#\\APPs\\Test1\\EnvioEmails\\EnvioEmails\\EnvioEmails.csproj",
+  "projectFilePath": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EnvioEmails\\EnvioEmails\\EnvioEmails.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ROL\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\ROL\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
