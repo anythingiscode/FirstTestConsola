@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjerciciosBásicos\EjerciciosBásicos\bin\Debug\net6.0\EjerciciosBásicos.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjerciciosBásicos\EjerciciosBásicos\bin\Debug\net6.0\EjerciciosBásicos.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjerciciosBásicos\EjerciciosBásicos\bin\Debug\net6.0\EjerciciosBásicos.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjerciciosBásicos\EjerciciosBásicos\bin\Debug\net6.0\EjerciciosBásicos.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjerciciosBásicos\EjerciciosBásicos\bin\Debug\net6.0\EjerciciosBásicos.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjerciciosBásicos\EjerciciosBásicos\obj\Debug\net6.0\EjerciciosBásicos.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjerciciosBásicos\EjerciciosBásicos\obj\Debug\net6.0\EjerciciosBásicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjerciciosBásicos\EjerciciosBásicos\obj\Debug\net6.0\EjerciciosBásicos.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjerciciosBásicos\EjerciciosBásicos\obj\Debug\net6.0\EjerciciosBásicos.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjerciciosBásicos\EjerciciosBásicos\obj\Debug\net6.0\EjerciciosBásicos.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjerciciosBásicos\EjerciciosBásicos\obj\Debug\net6.0\EjerciciosBásicos.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjerciciosBásicos\EjerciciosBásicos\obj\Debug\net6.0\refint\EjerciciosBásicos.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjerciciosBásicos\EjerciciosBásicos\obj\Debug\net6.0\EjerciciosBásicos.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjerciciosBásicos\EjerciciosBásicos\obj\Debug\net6.0\EjerciciosBásicos.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjerciciosBásicos\EjerciciosBásicos\obj\Debug\net6.0\ref\EjerciciosBásicos.dll
