@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioLINQ\EjercicioLINQ\bin\Debug\net6.0\EjercicioLINQ.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioLINQ\EjercicioLINQ\bin\Debug\net6.0\EjercicioLINQ.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioLINQ\EjercicioLINQ\bin\Debug\net6.0\EjercicioLINQ.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioLINQ\EjercicioLINQ\bin\Debug\net6.0\EjercicioLINQ.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioLINQ\EjercicioLINQ\bin\Debug\net6.0\EjercicioLINQ.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioLINQ\EjercicioLINQ\obj\Debug\net6.0\EjercicioLINQ.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioLINQ\EjercicioLINQ\obj\Debug\net6.0\EjercicioLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioLINQ\EjercicioLINQ\obj\Debug\net6.0\EjercicioLINQ.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioLINQ\EjercicioLINQ\obj\Debug\net6.0\EjercicioLINQ.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioLINQ\EjercicioLINQ\obj\Debug\net6.0\EjercicioLINQ.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioLINQ\EjercicioLINQ\obj\Debug\net6.0\EjercicioLINQ.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioLINQ\EjercicioLINQ\obj\Debug\net6.0\refint\EjercicioLINQ.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioLINQ\EjercicioLINQ\obj\Debug\net6.0\EjercicioLINQ.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioLINQ\EjercicioLINQ\obj\Debug\net6.0\EjercicioLINQ.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\EjercicioLINQ\EjercicioLINQ\obj\Debug\net6.0\ref\EjercicioLINQ.dll

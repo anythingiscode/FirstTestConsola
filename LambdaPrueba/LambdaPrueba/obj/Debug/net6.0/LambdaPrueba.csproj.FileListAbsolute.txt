@@ -1,0 +1,15 @@
+C:\ROL\C#\APPs\Test1\LambdaPrueba\LambdaPrueba\bin\Debug\net6.0\LambdaPrueba.exe
+C:\ROL\C#\APPs\Test1\LambdaPrueba\LambdaPrueba\bin\Debug\net6.0\LambdaPrueba.deps.json
+C:\ROL\C#\APPs\Test1\LambdaPrueba\LambdaPrueba\bin\Debug\net6.0\LambdaPrueba.runtimeconfig.json
+C:\ROL\C#\APPs\Test1\LambdaPrueba\LambdaPrueba\bin\Debug\net6.0\LambdaPrueba.dll
+C:\ROL\C#\APPs\Test1\LambdaPrueba\LambdaPrueba\bin\Debug\net6.0\LambdaPrueba.pdb
+C:\ROL\C#\APPs\Test1\LambdaPrueba\LambdaPrueba\obj\Debug\net6.0\LambdaPrueba.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\Test1\LambdaPrueba\LambdaPrueba\obj\Debug\net6.0\LambdaPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\ROL\C#\APPs\Test1\LambdaPrueba\LambdaPrueba\obj\Debug\net6.0\LambdaPrueba.AssemblyInfoInputs.cache
+C:\ROL\C#\APPs\Test1\LambdaPrueba\LambdaPrueba\obj\Debug\net6.0\LambdaPrueba.AssemblyInfo.cs
+C:\ROL\C#\APPs\Test1\LambdaPrueba\LambdaPrueba\obj\Debug\net6.0\LambdaPrueba.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\Test1\LambdaPrueba\LambdaPrueba\obj\Debug\net6.0\LambdaPrueba.dll
+C:\ROL\C#\APPs\Test1\LambdaPrueba\LambdaPrueba\obj\Debug\net6.0\refint\LambdaPrueba.dll
+C:\ROL\C#\APPs\Test1\LambdaPrueba\LambdaPrueba\obj\Debug\net6.0\LambdaPrueba.pdb
+C:\ROL\C#\APPs\Test1\LambdaPrueba\LambdaPrueba\obj\Debug\net6.0\LambdaPrueba.genruntimeconfig.cache
+C:\ROL\C#\APPs\Test1\LambdaPrueba\LambdaPrueba\obj\Debug\net6.0\ref\LambdaPrueba.dll
