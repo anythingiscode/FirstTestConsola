@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ROL\\C#\\APPs\\Test1\\EjLeertxt\\EjLeertxt\\EjLeertxt.csproj": {}
+    "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjLeertxt\\EjLeertxt\\EjLeertxt.csproj": {}
   },
   "projects": {
-    "C:\\ROL\\C#\\APPs\\Test1\\EjLeertxt\\EjLeertxt\\EjLeertxt.csproj": {
+    "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjLeertxt\\EjLeertxt\\EjLeertxt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ROL\\C#\\APPs\\Test1\\EjLeertxt\\EjLeertxt\\EjLeertxt.csproj",
+        "projectUniqueName": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjLeertxt\\EjLeertxt\\EjLeertxt.csproj",
         "projectName": "EjLeertxt",
-        "projectPath": "C:\\ROL\\C#\\APPs\\Test1\\EjLeertxt\\EjLeertxt\\EjLeertxt.csproj",
+        "projectPath": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjLeertxt\\EjLeertxt\\EjLeertxt.csproj",
         "packagesPath": "C:\\Users\\ROL\\.nuget\\packages\\",
-        "outputPath": "C:\\ROL\\C#\\APPs\\Test1\\EjLeertxt\\EjLeertxt\\obj\\",
+        "outputPath": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjLeertxt\\EjLeertxt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ROL\\AppData\\Roaming\\NuGet\\NuGet.Config",

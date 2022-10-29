@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ROL\\C#\\APPs\\Test1\\EjBasic_ARRAY\\EjBasic_ARRAY\\EjBasic_ARRAY.csproj",
+      "projectUniqueName": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjBasic_ARRAY\\EjBasic_ARRAY\\EjBasic_ARRAY.csproj",
       "projectName": "EjBasic_ARRAY",
-      "projectPath": "C:\\ROL\\C#\\APPs\\Test1\\EjBasic_ARRAY\\EjBasic_ARRAY\\EjBasic_ARRAY.csproj",
+      "projectPath": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjBasic_ARRAY\\EjBasic_ARRAY\\EjBasic_ARRAY.csproj",
       "packagesPath": "C:\\Users\\ROL\\.nuget\\packages\\",
-      "outputPath": "C:\\ROL\\C#\\APPs\\Test1\\EjBasic_ARRAY\\EjBasic_ARRAY\\obj\\",
+      "outputPath": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjBasic_ARRAY\\EjBasic_ARRAY\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ROL\\AppData\\Roaming\\NuGet\\NuGet.Config",
