@@ -42,9 +42,9 @@
         {
             using (StreamWriter writer = new StreamWriter(@"C:\ROL\C#\Temp\EjemploFicheros\ExempleFichierEscritura_1.txt"))
             {       
-                foreach (string txt in writerText)
+                foreach (string linea in writerText)
                 {
-                    writer.WriteLine(txt);
+                    writer.WriteLine(linea);
                 }
                
                 writer.Close();             // CERRAR EL FICHERO SIEMPRE!!! Sino no se guarda el fichero. En este caso está dentro del using y no es necesario
