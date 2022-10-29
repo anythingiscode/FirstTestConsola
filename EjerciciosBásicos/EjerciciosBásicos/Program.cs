@@ -46,32 +46,44 @@
         Console.ReadKey();
 
     }
-    public static int ContarPalabrasRepetidas(string txt)
+    public static void ContarPalabrasRepetidas(string txt)
     {
-        //Paso la cadena 'text' a cadena de palabras:
-
-        string[] text = txt.Split(new char[] { '.', '?', '!', ' ', ';', ':', ',' }, StringSplitOptions.RemoveEmptyEntries);
-        List<string> Repeticiones = new List<string>();
-        Repeticiones.Add(text[0]);
-        Repeticiones.Add("1");
-        //Creo la query para buscar cada palabra en el texto
-        int y = 0;
-        for (int i = 0; i < text.Length; i++)
-        {
-            Repeticiones.Add(text[i]);
-            Repeticiones.Add("0");
-            text.Count();
-
-
-        }
+        //También creo un fichero con la espuesta dada:
+        string path = @"C:\ROL\C#\Temp\EjemploFicheros\RespuestaContarPalabrasRepetidas2.txt";
+        StreamWriter FicheroTexto = new StreamWriter(path);
         
-
-        return text.Length;
+        try
+        {
+            FicheroTexto.WriteLine("El texto a tratar es : \n");
+            FicheroTexto.Close();
+            File.AppendAllText(path, txt);                
+        }
+        catch (Exception e)
+        {
+            FicheroTexto.Close();
+            Console.WriteLine($"Hubo un error al escribir el fichero :\n {e}");
+            throw;
+        }
+       
+        //Paso la cadena 'text' a cadena de palabras en minusculas:     
+        string[] palabras = txt.ToLower().Split(new char[] { '.', '?', '!', ' ', ';', ':', ',' }, StringSplitOptions.RemoveEmptyEntries);
+       //Creo una lista con las palabras repetidas (para no buscarlas 2 veces)
+        List<string> PalabrasRepetidas = new List<string>();
       
 
-        //bool Correcto = listaDeNumeros.Contains(100);    //Contains nos dice si un elemento existe o no en la lista
-        //static List<int> listaDeNumeros = new List<int> { 5, 10, 20 };
+        for (int i = 0; i < palabras.Length; i++)
+        {
+            IEnumerable<string> repes = palabras.Where(p => p == palabras[i]);
 
+            if (repes.Count() > 1 && !PalabrasRepetidas.Contains(palabras[i]))
+            {
+                PalabrasRepetidas.Add(palabras[i]);
+                Console.WriteLine("La palabra : '" + palabras[i] + "' Está repetida >> " + Convert.ToString(repes.Count()) + " veces.");
+                File.AppendAllText(path,"\n" + "La palabra : '" + palabras[i] + "' Está repetida >> " + Convert.ToString(repes.Count()) + " veces.");
+            }
+        }
+        FicheroTexto.Close();
+        Console.WriteLine("\n\nFin de escritura de fichero.");
     }
 
     public static int Mayor(int[] arr)
