@@ -14,6 +14,9 @@
           @" query can only be represented as a string without compile-time type checking or" +
           @" IntelliSense support in the IDE. Transferring data from SQL tables or XML trees to" +
           @" objects in memory is often tedious and error-prone.";
+        
+        
+
         /*
         //Detectar si un num es primo o no:
         Console.WriteLine("Introduce un número para comprovar si es primo : ");
@@ -38,14 +41,59 @@
         
         Console.WriteLine("\nEl mayor número de la array es : " + Mayor2(arr));
         Console.WriteLine("\nCon linq; El mayor número de la array es : " + arr.Max());
-          */
+         
         //Contar las veces que se repite una palabras en una frase
 
         ContarPalabrasRepetidas(text);
+         */
 
+        CalificacionesAlumnos();
+
+
+        Console.WriteLine("\n\n\nPress any key to exit.");
         Console.ReadKey();
 
     }
+
+
+    //Mostrar en pantalla el mejor y el peor promedio de las calificaciones de los alumnos
+    public static void CalificacionesAlumnos()
+    {
+        int NumAlumnos = 1; 
+        int NumNotas = 5;
+        decimal SumaNotas = 0;
+        //Obtenemos las calificaciones de los alumnos
+        Console.WriteLine("Introduzca el número de alumnos a registrar :");       
+        NumAlumnos = Convert.ToInt32(Console.ReadLine());
+        decimal[,] AlumnosYNotas = new decimal[NumAlumnos, NumNotas + 1];
+        for (int i = 0; i < NumAlumnos; i++)
+        {
+            SumaNotas = 0;
+            Console.WriteLine($"\nIntroduzca las {NumNotas} calificaciones del alumno {i+1} :");
+            for (int j = 0; j < NumNotas; j++)
+            {
+                AlumnosYNotas[i,j] = Convert.ToDecimal(Console.ReadLine());
+                SumaNotas = SumaNotas + AlumnosYNotas[i,j];
+            }
+            //Calculo la media y la almacemo el la última posición de la array
+            AlumnosYNotas[i,NumNotas] = SumaNotas / NumNotas;
+            Console.Clear();
+        }
+        List<decimal> Medias = new List<decimal>();
+        for(int i=0; i<NumAlumnos; i++)
+            {
+                Medias.Add(AlumnosYNotas[i,NumNotas]);
+            }
+
+        Console.WriteLine("\n La mejor media es de : " + Convert.ToString(Medias.Max())
+                        + " que corresponde al alumno " + Convert.ToString(Medias.FindIndex(a => a == Medias.Max()) + 1 ));
+
+        Console.WriteLine("\n La peor media es de : " + Convert.ToString(Medias.Min())
+                        + " que corresponde al alumno " + Convert.ToString(Medias.FindIndex(a => a == Medias.Min()) + 1 ));
+
+    }
+
+    //Contar las veces que se repiten las palablas en un texto.
     public static void ContarPalabrasRepetidas(string txt)
     {
         //También creo un fichero con la espuesta dada:
@@ -64,22 +112,26 @@
             Console.WriteLine($"Hubo un error al escribir el fichero :\n {e}");
             throw;
         }
+
+       
        
         //Paso la cadena 'text' a cadena de palabras en minusculas:     
         string[] palabras = txt.ToLower().Split(new char[] { '.', '?', '!', ' ', ';', ':', ',' }, StringSplitOptions.RemoveEmptyEntries);
        //Creo una lista con las palabras repetidas (para no buscarlas 2 veces)
         List<string> PalabrasRepetidas = new List<string>();
-      
+       
 
         for (int i = 0; i < palabras.Length; i++)
         {
-            IEnumerable<string> repes = palabras.Where(p => p == palabras[i]);
-
-            if (repes.Count() > 1 && !PalabrasRepetidas.Contains(palabras[i]))
+            if (!PalabrasRepetidas.Contains(palabras[i]))
             {
-                PalabrasRepetidas.Add(palabras[i]);
-                Console.WriteLine("La palabra : '" + palabras[i] + "' Está repetida >> " + Convert.ToString(repes.Count()) + " veces.");
-                File.AppendAllText(path,"\n" + "La palabra : '" + palabras[i] + "' Está repetida >> " + Convert.ToString(repes.Count()) + " veces.");
+                IEnumerable<string> repes = palabras.Where(p => p == palabras[i]);
+                if (repes.Count() > 1)
+                {
+                    PalabrasRepetidas.Add(palabras[i]);
+                    Console.WriteLine("La palabra : '" + palabras[i] + "' Está repetida >> " + Convert.ToString(repes.Count()) + " veces.");
+                    File.AppendAllText(path,"\n" + "La palabra : '" + palabras[i] + "' Está repetida >> " + Convert.ToString(repes.Count()) + " veces.");
+                }                
             }
         }
         FicheroTexto.Close();
