@@ -1,0 +1,16 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\bin\Debug\ProyectoPrueba.exe.config
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\bin\Debug\ProyectoPrueba.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\bin\Debug\ProyectoPrueba.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\bin\Debug\Entidades.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\bin\Debug\LogicaNegocio.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\bin\Debug\Entidades.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\bin\Debug\LogicaNegocio.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\obj\Debug\ProyectoPrueba.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\obj\Debug\ProyectoPrueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\obj\Debug\ProyectoPrueba.Principal.FrmLogin.resources
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\obj\Debug\ProyectoPrueba.Properties.Resources.resources
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\obj\Debug\ProyectoPrueba.csproj.GenerateResource.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\obj\Debug\ProyectoPrueba.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\obj\Debug\ProyectoPrueba.csproj.CopyComplete
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\obj\Debug\ProyectoPrueba.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\ProyectoPrueba\obj\Debug\ProyectoPrueba.pdb

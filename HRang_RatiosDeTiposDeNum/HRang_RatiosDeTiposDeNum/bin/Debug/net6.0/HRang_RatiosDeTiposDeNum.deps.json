@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HRang_RatiosDeTiposDeNum/1.0.0": {
+        "runtime": {
+          "HRang_RatiosDeTiposDeNum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HRang_RatiosDeTiposDeNum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

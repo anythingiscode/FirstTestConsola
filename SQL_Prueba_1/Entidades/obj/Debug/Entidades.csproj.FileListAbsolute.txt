@@ -1,0 +1,6 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\Entidades\bin\Debug\Entidades.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\Entidades\obj\Debug\Entidades.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\SQL_Prueba_1\Entidades\obj\Debug\Entidades.pdb

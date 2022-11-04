@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRang_RatiosDeTiposDeNum\HRang_RatiosDeTiposDeNum\bin\Debug\net6.0\HRang_RatiosDeTiposDeNum.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRang_RatiosDeTiposDeNum\HRang_RatiosDeTiposDeNum\bin\Debug\net6.0\HRang_RatiosDeTiposDeNum.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRang_RatiosDeTiposDeNum\HRang_RatiosDeTiposDeNum\bin\Debug\net6.0\HRang_RatiosDeTiposDeNum.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRang_RatiosDeTiposDeNum\HRang_RatiosDeTiposDeNum\bin\Debug\net6.0\HRang_RatiosDeTiposDeNum.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRang_RatiosDeTiposDeNum\HRang_RatiosDeTiposDeNum\bin\Debug\net6.0\HRang_RatiosDeTiposDeNum.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRang_RatiosDeTiposDeNum\HRang_RatiosDeTiposDeNum\obj\Debug\net6.0\HRang_RatiosDeTiposDeNum.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRang_RatiosDeTiposDeNum\HRang_RatiosDeTiposDeNum\obj\Debug\net6.0\HRang_RatiosDeTiposDeNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRang_RatiosDeTiposDeNum\HRang_RatiosDeTiposDeNum\obj\Debug\net6.0\HRang_RatiosDeTiposDeNum.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRang_RatiosDeTiposDeNum\HRang_RatiosDeTiposDeNum\obj\Debug\net6.0\HRang_RatiosDeTiposDeNum.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRang_RatiosDeTiposDeNum\HRang_RatiosDeTiposDeNum\obj\Debug\net6.0\HRang_RatiosDeTiposDeNum.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRang_RatiosDeTiposDeNum\HRang_RatiosDeTiposDeNum\obj\Debug\net6.0\HRang_RatiosDeTiposDeNum.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRang_RatiosDeTiposDeNum\HRang_RatiosDeTiposDeNum\obj\Debug\net6.0\refint\HRang_RatiosDeTiposDeNum.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRang_RatiosDeTiposDeNum\HRang_RatiosDeTiposDeNum\obj\Debug\net6.0\HRang_RatiosDeTiposDeNum.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRang_RatiosDeTiposDeNum\HRang_RatiosDeTiposDeNum\obj\Debug\net6.0\HRang_RatiosDeTiposDeNum.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRang_RatiosDeTiposDeNum\HRang_RatiosDeTiposDeNum\obj\Debug\net6.0\ref\HRang_RatiosDeTiposDeNum.dll
