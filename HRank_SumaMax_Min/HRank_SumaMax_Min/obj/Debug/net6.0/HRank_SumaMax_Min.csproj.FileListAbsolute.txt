@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRank_SumaMax_Min\HRank_SumaMax_Min\bin\Debug\net6.0\HRank_SumaMax_Min.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRank_SumaMax_Min\HRank_SumaMax_Min\bin\Debug\net6.0\HRank_SumaMax_Min.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRank_SumaMax_Min\HRank_SumaMax_Min\bin\Debug\net6.0\HRank_SumaMax_Min.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRank_SumaMax_Min\HRank_SumaMax_Min\bin\Debug\net6.0\HRank_SumaMax_Min.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRank_SumaMax_Min\HRank_SumaMax_Min\bin\Debug\net6.0\HRank_SumaMax_Min.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRank_SumaMax_Min\HRank_SumaMax_Min\obj\Debug\net6.0\HRank_SumaMax_Min.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRank_SumaMax_Min\HRank_SumaMax_Min\obj\Debug\net6.0\HRank_SumaMax_Min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRank_SumaMax_Min\HRank_SumaMax_Min\obj\Debug\net6.0\HRank_SumaMax_Min.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRank_SumaMax_Min\HRank_SumaMax_Min\obj\Debug\net6.0\HRank_SumaMax_Min.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRank_SumaMax_Min\HRank_SumaMax_Min\obj\Debug\net6.0\HRank_SumaMax_Min.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRank_SumaMax_Min\HRank_SumaMax_Min\obj\Debug\net6.0\HRank_SumaMax_Min.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRank_SumaMax_Min\HRank_SumaMax_Min\obj\Debug\net6.0\refint\HRank_SumaMax_Min.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRank_SumaMax_Min\HRank_SumaMax_Min\obj\Debug\net6.0\HRank_SumaMax_Min.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRank_SumaMax_Min\HRank_SumaMax_Min\obj\Debug\net6.0\HRank_SumaMax_Min.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRank_SumaMax_Min\HRank_SumaMax_Min\obj\Debug\net6.0\ref\HRank_SumaMax_Min.dll
