@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRevasamientoPuntuacion\HRankRevasamientoPuntuacion\bin\Debug\net6.0\HRankRevasamientoPuntuacion.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRevasamientoPuntuacion\HRankRevasamientoPuntuacion\bin\Debug\net6.0\HRankRevasamientoPuntuacion.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRevasamientoPuntuacion\HRankRevasamientoPuntuacion\bin\Debug\net6.0\HRankRevasamientoPuntuacion.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRevasamientoPuntuacion\HRankRevasamientoPuntuacion\bin\Debug\net6.0\HRankRevasamientoPuntuacion.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRevasamientoPuntuacion\HRankRevasamientoPuntuacion\bin\Debug\net6.0\HRankRevasamientoPuntuacion.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRevasamientoPuntuacion\HRankRevasamientoPuntuacion\obj\Debug\net6.0\HRankRevasamientoPuntuacion.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRevasamientoPuntuacion\HRankRevasamientoPuntuacion\obj\Debug\net6.0\HRankRevasamientoPuntuacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRevasamientoPuntuacion\HRankRevasamientoPuntuacion\obj\Debug\net6.0\HRankRevasamientoPuntuacion.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRevasamientoPuntuacion\HRankRevasamientoPuntuacion\obj\Debug\net6.0\HRankRevasamientoPuntuacion.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRevasamientoPuntuacion\HRankRevasamientoPuntuacion\obj\Debug\net6.0\HRankRevasamientoPuntuacion.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRevasamientoPuntuacion\HRankRevasamientoPuntuacion\obj\Debug\net6.0\HRankRevasamientoPuntuacion.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRevasamientoPuntuacion\HRankRevasamientoPuntuacion\obj\Debug\net6.0\refint\HRankRevasamientoPuntuacion.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRevasamientoPuntuacion\HRankRevasamientoPuntuacion\obj\Debug\net6.0\HRankRevasamientoPuntuacion.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRevasamientoPuntuacion\HRankRevasamientoPuntuacion\obj\Debug\net6.0\HRankRevasamientoPuntuacion.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRevasamientoPuntuacion\HRankRevasamientoPuntuacion\obj\Debug\net6.0\ref\HRankRevasamientoPuntuacion.dll
