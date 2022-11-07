@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankFormatoHoras\HRankFormatoHoras\bin\Debug\net6.0\HRankFormatoHoras.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankFormatoHoras\HRankFormatoHoras\bin\Debug\net6.0\HRankFormatoHoras.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankFormatoHoras\HRankFormatoHoras\bin\Debug\net6.0\HRankFormatoHoras.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankFormatoHoras\HRankFormatoHoras\bin\Debug\net6.0\HRankFormatoHoras.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankFormatoHoras\HRankFormatoHoras\bin\Debug\net6.0\HRankFormatoHoras.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankFormatoHoras\HRankFormatoHoras\obj\Debug\net6.0\HRankFormatoHoras.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankFormatoHoras\HRankFormatoHoras\obj\Debug\net6.0\HRankFormatoHoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankFormatoHoras\HRankFormatoHoras\obj\Debug\net6.0\HRankFormatoHoras.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankFormatoHoras\HRankFormatoHoras\obj\Debug\net6.0\HRankFormatoHoras.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankFormatoHoras\HRankFormatoHoras\obj\Debug\net6.0\HRankFormatoHoras.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankFormatoHoras\HRankFormatoHoras\obj\Debug\net6.0\HRankFormatoHoras.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankFormatoHoras\HRankFormatoHoras\obj\Debug\net6.0\refint\HRankFormatoHoras.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankFormatoHoras\HRankFormatoHoras\obj\Debug\net6.0\HRankFormatoHoras.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankFormatoHoras\HRankFormatoHoras\obj\Debug\net6.0\HRankFormatoHoras.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankFormatoHoras\HRankFormatoHoras\obj\Debug\net6.0\ref\HRankFormatoHoras.dll
