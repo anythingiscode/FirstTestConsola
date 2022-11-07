@@ -29,13 +29,14 @@ class Result
         for(int i = 0; i < 4; i++)
         {
             sumaMin = sumaMin + arr[i];
+            sumaMax = sumaMax + arr[arr.Count -1 - i];
         }
-        arr.Reverse();      //Invierto la cade`na para ordenar de mayor a menor
+        //arr.Reverse();      //Invierto la cade`na para ordenar de mayor a menor
 
-        for (int i = 0; i < 4; i++)
-        {
-            sumaMax = sumaMax + arr[i];
-        }
+        //for (int i = 0; i < 4; i++)
+        //{
+        //    sumaMax = sumaMax + arr[i];
+        //}
 
         Console.Write(sumaMin + " " + sumaMax);
 
