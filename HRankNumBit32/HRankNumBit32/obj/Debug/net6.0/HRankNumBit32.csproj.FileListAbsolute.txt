@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankNumBit32\HRankNumBit32\bin\Debug\net6.0\HRankNumBit32.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankNumBit32\HRankNumBit32\bin\Debug\net6.0\HRankNumBit32.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankNumBit32\HRankNumBit32\bin\Debug\net6.0\HRankNumBit32.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankNumBit32\HRankNumBit32\bin\Debug\net6.0\HRankNumBit32.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankNumBit32\HRankNumBit32\bin\Debug\net6.0\HRankNumBit32.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankNumBit32\HRankNumBit32\obj\Debug\net6.0\HRankNumBit32.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankNumBit32\HRankNumBit32\obj\Debug\net6.0\HRankNumBit32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankNumBit32\HRankNumBit32\obj\Debug\net6.0\HRankNumBit32.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankNumBit32\HRankNumBit32\obj\Debug\net6.0\HRankNumBit32.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankNumBit32\HRankNumBit32\obj\Debug\net6.0\HRankNumBit32.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankNumBit32\HRankNumBit32\obj\Debug\net6.0\HRankNumBit32.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankNumBit32\HRankNumBit32\obj\Debug\net6.0\refint\HRankNumBit32.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankNumBit32\HRankNumBit32\obj\Debug\net6.0\HRankNumBit32.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankNumBit32\HRankNumBit32\obj\Debug\net6.0\HRankNumBit32.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankNumBit32\HRankNumBit32\obj\Debug\net6.0\ref\HRankNumBit32.dll
