@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\TestMediana\TestMediana\bin\Debug\net6.0\TestMediana.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\TestMediana\TestMediana\bin\Debug\net6.0\TestMediana.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\TestMediana\TestMediana\bin\Debug\net6.0\TestMediana.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\TestMediana\TestMediana\bin\Debug\net6.0\TestMediana.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\TestMediana\TestMediana\bin\Debug\net6.0\TestMediana.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\TestMediana\TestMediana\obj\Debug\net6.0\TestMediana.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\TestMediana\TestMediana\obj\Debug\net6.0\TestMediana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\TestMediana\TestMediana\obj\Debug\net6.0\TestMediana.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\TestMediana\TestMediana\obj\Debug\net6.0\TestMediana.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\TestMediana\TestMediana\obj\Debug\net6.0\TestMediana.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\TestMediana\TestMediana\obj\Debug\net6.0\TestMediana.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\TestMediana\TestMediana\obj\Debug\net6.0\refint\TestMediana.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\TestMediana\TestMediana\obj\Debug\net6.0\TestMediana.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\TestMediana\TestMediana\obj\Debug\net6.0\TestMediana.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\TestMediana\TestMediana\obj\Debug\net6.0\ref\TestMediana.dll
