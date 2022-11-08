@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaDiagonalMatriz\HRankSumaDiagonalMatriz\bin\Debug\net6.0\HRankSumaDiagonalMatriz.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaDiagonalMatriz\HRankSumaDiagonalMatriz\bin\Debug\net6.0\HRankSumaDiagonalMatriz.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaDiagonalMatriz\HRankSumaDiagonalMatriz\bin\Debug\net6.0\HRankSumaDiagonalMatriz.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaDiagonalMatriz\HRankSumaDiagonalMatriz\bin\Debug\net6.0\HRankSumaDiagonalMatriz.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaDiagonalMatriz\HRankSumaDiagonalMatriz\bin\Debug\net6.0\HRankSumaDiagonalMatriz.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaDiagonalMatriz\HRankSumaDiagonalMatriz\obj\Debug\net6.0\HRankSumaDiagonalMatriz.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaDiagonalMatriz\HRankSumaDiagonalMatriz\obj\Debug\net6.0\HRankSumaDiagonalMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaDiagonalMatriz\HRankSumaDiagonalMatriz\obj\Debug\net6.0\HRankSumaDiagonalMatriz.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaDiagonalMatriz\HRankSumaDiagonalMatriz\obj\Debug\net6.0\HRankSumaDiagonalMatriz.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaDiagonalMatriz\HRankSumaDiagonalMatriz\obj\Debug\net6.0\HRankSumaDiagonalMatriz.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaDiagonalMatriz\HRankSumaDiagonalMatriz\obj\Debug\net6.0\HRankSumaDiagonalMatriz.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaDiagonalMatriz\HRankSumaDiagonalMatriz\obj\Debug\net6.0\refint\HRankSumaDiagonalMatriz.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaDiagonalMatriz\HRankSumaDiagonalMatriz\obj\Debug\net6.0\HRankSumaDiagonalMatriz.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaDiagonalMatriz\HRankSumaDiagonalMatriz\obj\Debug\net6.0\HRankSumaDiagonalMatriz.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaDiagonalMatriz\HRankSumaDiagonalMatriz\obj\Debug\net6.0\ref\HRankSumaDiagonalMatriz.dll
