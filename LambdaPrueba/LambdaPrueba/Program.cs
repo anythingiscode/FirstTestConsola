@@ -40,7 +40,7 @@ internal class Program
         foreach (int num in MenoresQue10)
             Console.WriteLine(num);
         Console.WriteLine("El resultado de los números menores que 10 opción2 es : ");
-        foreach (int num in MenoresQue10)
+        foreach (int num in MenoresQue10_)
             Console.WriteLine(num);
 
 

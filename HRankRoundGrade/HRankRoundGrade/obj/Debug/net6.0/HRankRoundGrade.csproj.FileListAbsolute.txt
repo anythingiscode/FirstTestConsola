@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRoundGrade\HRankRoundGrade\bin\Debug\net6.0\HRankRoundGrade.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRoundGrade\HRankRoundGrade\bin\Debug\net6.0\HRankRoundGrade.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRoundGrade\HRankRoundGrade\bin\Debug\net6.0\HRankRoundGrade.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRoundGrade\HRankRoundGrade\bin\Debug\net6.0\HRankRoundGrade.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRoundGrade\HRankRoundGrade\bin\Debug\net6.0\HRankRoundGrade.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRoundGrade\HRankRoundGrade\obj\Debug\net6.0\HRankRoundGrade.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRoundGrade\HRankRoundGrade\obj\Debug\net6.0\HRankRoundGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRoundGrade\HRankRoundGrade\obj\Debug\net6.0\HRankRoundGrade.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRoundGrade\HRankRoundGrade\obj\Debug\net6.0\HRankRoundGrade.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRoundGrade\HRankRoundGrade\obj\Debug\net6.0\HRankRoundGrade.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRoundGrade\HRankRoundGrade\obj\Debug\net6.0\HRankRoundGrade.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRoundGrade\HRankRoundGrade\obj\Debug\net6.0\refint\HRankRoundGrade.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRoundGrade\HRankRoundGrade\obj\Debug\net6.0\HRankRoundGrade.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRoundGrade\HRankRoundGrade\obj\Debug\net6.0\HRankRoundGrade.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRoundGrade\HRankRoundGrade\obj\Debug\net6.0\ref\HRankRoundGrade.dll
