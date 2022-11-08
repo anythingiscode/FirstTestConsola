@@ -5,6 +5,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        TextWriter textWriter = new StreamWriter(("ResultadoNumBit32.txt"), true);
 
         int q = Convert.ToInt32(Console.ReadLine().Trim());
 
@@ -13,51 +14,57 @@ internal class Program
             long n = Convert.ToInt64(Console.ReadLine().Trim());
 
             long result = Result.flippingBits(n);
+
+            textWriter.WriteLine(result);
         }
+
+        textWriter.Flush();
+        textWriter.Close();
 
         Console.ReadKey();
     }
 }
-    class Result
+class Result
+{
+
+    /*
+        * Complete the 'flippingBits' function below.
+        *
+        * The function is expected to return a LONG_INTEGER.
+        * The function accepts LONG_INTEGER n as parameter.
+        */
+
+    public static long flippingBits(long n)
     {
 
-        /*
-         * Complete the 'flippingBits' function below.
-         *
-         * The function is expected to return a LONG_INTEGER.
-         * The function accepts LONG_INTEGER n as parameter.
-         */
+        string binary = Convert.ToString(n, 2);
+        string binary32 = binary.PadLeft(32, '0');
 
-        public static long flippingBits(long n)
+        Console.WriteLine(binary32);
+        //Console.ReadKey();
+
+        string binaryInv = "";
+        foreach (char c in binary32)
         {
-            //int nN = (int)Convert.ToInt64(n);
-            //BitArray b = new BitArray(new int[] { nN });
-            string binary = Convert.ToString(n, 2);
-            string binary32 = binary.PadLeft(32, '0');
-            Console.WriteLine(binary32);
-            Console.ReadKey();
-            string binaryInv = "";
-            foreach (char c in binary32)
-            {
-                if (c == '0') binaryInv = binaryInv + '1';
-                else binaryInv = binaryInv + '0';
-            }
-        
-        Console.WriteLine(binaryInv);
-        Console.ReadKey();
-        long res = Convert.ToInt64(binaryInv);
-
-        //byte[] bytes = Encoding.ASCII.GetBytes(binaryInv);
-        //for (int i = 0; i < (bytes.Length - 8); i++)
-        //{
-        //    Console.WriteLine($"I[{i}] : {BitConverter.ToInt64(bytes, i)}");
-        //}
-
-        Console.WriteLine(res);
-        Console.ReadKey();
-
-        return res;
-           
+            if (c == '0') binaryInv = binaryInv + '1';
+            else binaryInv = binaryInv + '0';
         }
 
+        Console.WriteLine(binaryInv);
+        //Console.ReadKey();
+
+        //byte[] bytes = Encoding.ASCII.GetBytes(binaryInv);
+        //long res = BitConverter.ToInt64(bytes);
+
+        //Console.WriteLine(res);
+        //Console.ReadKey
+
+        long res = Convert.ToInt64(binaryInv, 2);
+        Console.WriteLine("Resultado funcion : " + res);
+        //Console.ReadKey();
+
+        return res;
+
     }
+
+}
