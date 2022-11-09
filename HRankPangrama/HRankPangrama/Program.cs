@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualBasic.FileIO;
 using System.Collections.Immutable;
+using System.Text.RegularExpressions;
 
 internal class Program
 {
@@ -36,16 +37,21 @@ class Result
         
         string T = s.ToLower();
         Console.WriteLine("String minusculas : " + T);
-        T = String.Concat(T.Where(c => !Char.IsWhiteSpace(c)));
-        
-        Console.WriteLine("String sin espacios : " + T);
-        //T = T.DistinctBy(x => x);
+        //T = Regex.Replace(T, @"\s","");     //using System.Text.RegularExpressions
+        //T = T.Replace(" ", String.Empty);       //Atencion: This method could only remove the single space character " " but not other white spaces like tab (\t) or newline (\n).
+        T = String.Concat(T.Where(c => !Char.IsWhiteSpace(c)));  //using Linq
 
-        Array.Sort<char>(T.ToCharArray());
-        Console.WriteLine("String orderby : " + T);
+        Console.WriteLine("String sin espacios : " + T);
+
+        IEnumerable<char> letrasT = T.Distinct();
+
+        Console.WriteLine("String unicos : " + letrasT);
+
+        letrasT
+        Console.WriteLine("String orderby : " + letrasT);
         
-        //T.Distinct();
-        Console.WriteLine("String unicos : " + T);
+       
+        
         
         
         Console.WriteLine("String filtrado : " + T);
