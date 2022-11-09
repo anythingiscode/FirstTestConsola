@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ROL\\C#\\APPs\\Test1\\Test_1\\Test_1\\EjemploDeClases.csproj",
+      "projectUniqueName": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\Test_1\\Test_1\\EjemploDeClases.csproj",
       "projectName": "EjemploDeClases",
-      "projectPath": "C:\\ROL\\C#\\APPs\\Test1\\Test_1\\Test_1\\EjemploDeClases.csproj",
+      "projectPath": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\Test_1\\Test_1\\EjemploDeClases.csproj",
       "packagesPath": "C:\\Users\\ROL\\.nuget\\packages\\",
-      "outputPath": "C:\\ROL\\C#\\APPs\\Test1\\Test_1\\Test_1\\obj\\",
+      "outputPath": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\Test_1\\Test_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ROL\\AppData\\Roaming\\NuGet\\NuGet.Config",

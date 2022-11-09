@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ROL\\C#\\APPs\\Test1\\EjHackerRank_Escalera\\EjHackerRank_Escalera\\EjHackerRank_Escalera.csproj": {}
+    "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjHackerRank_Escalera\\EjHackerRank_Escalera\\EjHackerRank_Escalera.csproj": {}
   },
   "projects": {
-    "C:\\ROL\\C#\\APPs\\Test1\\EjHackerRank_Escalera\\EjHackerRank_Escalera\\EjHackerRank_Escalera.csproj": {
+    "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjHackerRank_Escalera\\EjHackerRank_Escalera\\EjHackerRank_Escalera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ROL\\C#\\APPs\\Test1\\EjHackerRank_Escalera\\EjHackerRank_Escalera\\EjHackerRank_Escalera.csproj",
+        "projectUniqueName": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjHackerRank_Escalera\\EjHackerRank_Escalera\\EjHackerRank_Escalera.csproj",
         "projectName": "EjHackerRank_Escalera",
-        "projectPath": "C:\\ROL\\C#\\APPs\\Test1\\EjHackerRank_Escalera\\EjHackerRank_Escalera\\EjHackerRank_Escalera.csproj",
+        "projectPath": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjHackerRank_Escalera\\EjHackerRank_Escalera\\EjHackerRank_Escalera.csproj",
         "packagesPath": "C:\\Users\\ROL\\.nuget\\packages\\",
-        "outputPath": "C:\\ROL\\C#\\APPs\\Test1\\EjHackerRank_Escalera\\EjHackerRank_Escalera\\obj\\",
+        "outputPath": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjHackerRank_Escalera\\EjHackerRank_Escalera\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ROL\\AppData\\Roaming\\NuGet\\NuGet.Config",

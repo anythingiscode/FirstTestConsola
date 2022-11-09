@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankPangrama\HRankPangrama\bin\Debug\net6.0\HRankPangrama.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankPangrama\HRankPangrama\bin\Debug\net6.0\HRankPangrama.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankPangrama\HRankPangrama\bin\Debug\net6.0\HRankPangrama.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankPangrama\HRankPangrama\bin\Debug\net6.0\HRankPangrama.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankPangrama\HRankPangrama\bin\Debug\net6.0\HRankPangrama.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankPangrama\HRankPangrama\obj\Debug\net6.0\HRankPangrama.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankPangrama\HRankPangrama\obj\Debug\net6.0\HRankPangrama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankPangrama\HRankPangrama\obj\Debug\net6.0\HRankPangrama.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankPangrama\HRankPangrama\obj\Debug\net6.0\HRankPangrama.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankPangrama\HRankPangrama\obj\Debug\net6.0\HRankPangrama.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankPangrama\HRankPangrama\obj\Debug\net6.0\HRankPangrama.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankPangrama\HRankPangrama\obj\Debug\net6.0\refint\HRankPangrama.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankPangrama\HRankPangrama\obj\Debug\net6.0\HRankPangrama.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankPangrama\HRankPangrama\obj\Debug\net6.0\HRankPangrama.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankPangrama\HRankPangrama\obj\Debug\net6.0\ref\HRankPangrama.dll
