@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankContarVallesExcursion\HRankContarVallesExcursion\obj\Debug\net6.0\HRankContarVallesExcursion.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankContarVallesExcursion\HRankContarVallesExcursion\obj\Debug\net6.0\HRankContarVallesExcursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankContarVallesExcursion\HRankContarVallesExcursion\obj\Debug\net6.0\HRankContarVallesExcursion.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankContarVallesExcursion\HRankContarVallesExcursion\obj\Debug\net6.0\HRankContarVallesExcursion.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankContarVallesExcursion\HRankContarVallesExcursion\obj\Debug\net6.0\HRankContarVallesExcursion.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankContarVallesExcursion\HRankContarVallesExcursion\bin\Debug\net6.0\HRankContarVallesExcursion.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankContarVallesExcursion\HRankContarVallesExcursion\bin\Debug\net6.0\HRankContarVallesExcursion.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankContarVallesExcursion\HRankContarVallesExcursion\bin\Debug\net6.0\HRankContarVallesExcursion.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankContarVallesExcursion\HRankContarVallesExcursion\bin\Debug\net6.0\HRankContarVallesExcursion.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankContarVallesExcursion\HRankContarVallesExcursion\bin\Debug\net6.0\HRankContarVallesExcursion.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankContarVallesExcursion\HRankContarVallesExcursion\obj\Debug\net6.0\HRankContarVallesExcursion.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankContarVallesExcursion\HRankContarVallesExcursion\obj\Debug\net6.0\refint\HRankContarVallesExcursion.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankContarVallesExcursion\HRankContarVallesExcursion\obj\Debug\net6.0\HRankContarVallesExcursion.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankContarVallesExcursion\HRankContarVallesExcursion\obj\Debug\net6.0\HRankContarVallesExcursion.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankContarVallesExcursion\HRankContarVallesExcursion\obj\Debug\net6.0\ref\HRankContarVallesExcursion.dll
