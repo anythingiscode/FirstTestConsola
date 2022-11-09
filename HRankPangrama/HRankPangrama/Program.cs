@@ -33,12 +33,20 @@ class Result
     public static string pangrams(string s)
     {
         //char[] letras = Enumerable.Range('a', 'z' - 'a' + 1).Select(i => (char)i).ToArray();
+        
         string T = s.ToLower();
         Console.WriteLine("String minusculas : " + T);
-        T.ToList().Sort();
+        T = String.Concat(T.Where(c => !Char.IsWhiteSpace(c)));
+        
+        Console.WriteLine("String sin espacios : " + T);
+        //T = T.DistinctBy(x => x);
+
+        Array.Sort<char>(T.ToCharArray());
+        Console.WriteLine("String orderby : " + T);
+        
         //T.Distinct();
         Console.WriteLine("String unicos : " + T);
-        s.Replace(" ",string.Empty);
+        
         
         Console.WriteLine("String filtrado : " + T);
         char[] letras = "abcdefghijklmnopqrstuvwxyz".ToCharArray();
