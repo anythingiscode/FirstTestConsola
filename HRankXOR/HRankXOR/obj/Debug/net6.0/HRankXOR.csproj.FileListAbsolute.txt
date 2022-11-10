@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankXOR\HRankXOR\bin\Debug\net6.0\HRankXOR.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankXOR\HRankXOR\bin\Debug\net6.0\HRankXOR.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankXOR\HRankXOR\bin\Debug\net6.0\HRankXOR.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankXOR\HRankXOR\bin\Debug\net6.0\HRankXOR.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankXOR\HRankXOR\bin\Debug\net6.0\HRankXOR.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankXOR\HRankXOR\obj\Debug\net6.0\HRankXOR.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankXOR\HRankXOR\obj\Debug\net6.0\HRankXOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankXOR\HRankXOR\obj\Debug\net6.0\HRankXOR.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankXOR\HRankXOR\obj\Debug\net6.0\HRankXOR.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankXOR\HRankXOR\obj\Debug\net6.0\HRankXOR.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankXOR\HRankXOR\obj\Debug\net6.0\HRankXOR.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankXOR\HRankXOR\obj\Debug\net6.0\refint\HRankXOR.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankXOR\HRankXOR\obj\Debug\net6.0\HRankXOR.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankXOR\HRankXOR\obj\Debug\net6.0\HRankXOR.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankXOR\HRankXOR\obj\Debug\net6.0\ref\HRankXOR.dll
