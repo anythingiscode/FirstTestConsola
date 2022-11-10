@@ -51,13 +51,8 @@ class Result
             sumaAux = matrix[0][0] + matrix[0][1] + matrix[1][0] + matrix[1][1];
             if (sumaAux > suma) suma = sumaAux;
 
-
-        }
-
-                
-            
-        return suma;
-
+        }     
+            return suma;
     }
 
 }
