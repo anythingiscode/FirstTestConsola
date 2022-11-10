@@ -1,5 +1,7 @@
 ﻿using Microsoft.VisualBasic.FileIO;
 using System.Collections.Immutable;
+using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text.RegularExpressions;
 
 internal class Program
@@ -33,33 +35,37 @@ class Result
 
     public static string pangrams(string s)
     {
-        //char[] letras = Enumerable.Range('a', 'z' - 'a' + 1).Select(i => (char)i).ToArray();
-        
-        string T = s.ToLower();
-        Console.WriteLine("String minusculas : " + T);
+
+        //string letras = "abcdefghijklmnopqrstuvwxyz"; // Como solo necesito el numero de caracteres -->
+        int NumLetras = 26;
+
+        //char[] letras = Enumerable.Range('a', 'z' - 'a' + 1).Select(i => (char)i).ToArray();  //Crear una array con las letras del abecedario
+
         //T = Regex.Replace(T, @"\s","");     //using System.Text.RegularExpressions
         //T = T.Replace(" ", String.Empty);       //Atencion: This method could only remove the single space character " " but not other white spaces like tab (\t) or newline (\n).
-        T = String.Concat(T.Where(c => !Char.IsWhiteSpace(c)));  //using Linq
+        //T = String.Concat(T.Where(c => !Char.IsWhiteSpace(c)));  //using Linq
+        string T = s.Replace(" ", "");
 
         Console.WriteLine("String sin espacios : " + T);
+        T = T.ToLower();
+        Console.WriteLine("String minusculas : " + T);
 
-        IEnumerable<char> letrasT = T.Distinct();
+        //var TUnicos = T.ToArray().Distinct().ToList();
+        var TUnicos = new HashSet<char>(T).ToList();         //Uso HashSet para generar una lista de valores unicos
 
-        Console.WriteLine("String unicos : " + letrasT);
+        Console.WriteLine("Valores únicos : ");
+        foreach (char c in TUnicos)
+            Console.Write(c + " ");
 
-        letrasT
-        Console.WriteLine("String orderby : " + letrasT);
-        
-       
-        
-        
-        
-        Console.WriteLine("String filtrado : " + T);
-        char[] letras = "abcdefghijklmnopqrstuvwxyz".ToCharArray();
-        Console.WriteLine("\nletras: " + letras);
-        Console.ReadKey();
+        //Podría ordenar la cadena y compararla con un Equal pero no es necesario. Solo tengo que ver que ambas tengan la misma longitud
 
-        if (s.Length == letras.Length)              
+        //TUnicos.Sort();
+        
+        //Console.WriteLine("\nString orderby : ");
+        //foreach (char c in TUnicos)
+        //    Console.Write(c + " ");
+
+        if (TUnicos.Count == NumLetras)              
             return "pangram";     
         else 
             return "not pangram";
