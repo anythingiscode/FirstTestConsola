@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMsgSOS_CompTxt\HRankMsgSOS_CompTxt\bin\Debug\net6.0\HRankMsgSOS_CompTxt.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMsgSOS_CompTxt\HRankMsgSOS_CompTxt\bin\Debug\net6.0\HRankMsgSOS_CompTxt.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMsgSOS_CompTxt\HRankMsgSOS_CompTxt\bin\Debug\net6.0\HRankMsgSOS_CompTxt.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMsgSOS_CompTxt\HRankMsgSOS_CompTxt\bin\Debug\net6.0\HRankMsgSOS_CompTxt.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMsgSOS_CompTxt\HRankMsgSOS_CompTxt\bin\Debug\net6.0\HRankMsgSOS_CompTxt.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMsgSOS_CompTxt\HRankMsgSOS_CompTxt\obj\Debug\net6.0\HRankMsgSOS_CompTxt.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMsgSOS_CompTxt\HRankMsgSOS_CompTxt\obj\Debug\net6.0\HRankMsgSOS_CompTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMsgSOS_CompTxt\HRankMsgSOS_CompTxt\obj\Debug\net6.0\HRankMsgSOS_CompTxt.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMsgSOS_CompTxt\HRankMsgSOS_CompTxt\obj\Debug\net6.0\HRankMsgSOS_CompTxt.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMsgSOS_CompTxt\HRankMsgSOS_CompTxt\obj\Debug\net6.0\HRankMsgSOS_CompTxt.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMsgSOS_CompTxt\HRankMsgSOS_CompTxt\obj\Debug\net6.0\HRankMsgSOS_CompTxt.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMsgSOS_CompTxt\HRankMsgSOS_CompTxt\obj\Debug\net6.0\refint\HRankMsgSOS_CompTxt.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMsgSOS_CompTxt\HRankMsgSOS_CompTxt\obj\Debug\net6.0\HRankMsgSOS_CompTxt.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMsgSOS_CompTxt\HRankMsgSOS_CompTxt\obj\Debug\net6.0\HRankMsgSOS_CompTxt.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMsgSOS_CompTxt\HRankMsgSOS_CompTxt\obj\Debug\net6.0\ref\HRankMsgSOS_CompTxt.dll
