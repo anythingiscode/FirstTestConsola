@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRankManerasSumarItemArr", "HRankManerasSumarItemArr\HRankManerasSumarItemArr.csproj", "{E813ACAB-7D53-401F-A1A9-F4E2C990C34C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E813ACAB-7D53-401F-A1A9-F4E2C990C34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E813ACAB-7D53-401F-A1A9-F4E2C990C34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E813ACAB-7D53-401F-A1A9-F4E2C990C34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E813ACAB-7D53-401F-A1A9-F4E2C990C34C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C3A627-5F47-414E-9EBA-422B297F59E8}
+	EndGlobalSection
+EndGlobal

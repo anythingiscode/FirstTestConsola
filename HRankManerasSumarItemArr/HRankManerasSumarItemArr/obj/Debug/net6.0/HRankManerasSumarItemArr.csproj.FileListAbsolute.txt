@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankManerasSumarItemArr\HRankManerasSumarItemArr\bin\Debug\net6.0\HRankManerasSumarItemArr.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankManerasSumarItemArr\HRankManerasSumarItemArr\bin\Debug\net6.0\HRankManerasSumarItemArr.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankManerasSumarItemArr\HRankManerasSumarItemArr\bin\Debug\net6.0\HRankManerasSumarItemArr.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankManerasSumarItemArr\HRankManerasSumarItemArr\bin\Debug\net6.0\HRankManerasSumarItemArr.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankManerasSumarItemArr\HRankManerasSumarItemArr\bin\Debug\net6.0\HRankManerasSumarItemArr.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankManerasSumarItemArr\HRankManerasSumarItemArr\obj\Debug\net6.0\HRankManerasSumarItemArr.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankManerasSumarItemArr\HRankManerasSumarItemArr\obj\Debug\net6.0\HRankManerasSumarItemArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankManerasSumarItemArr\HRankManerasSumarItemArr\obj\Debug\net6.0\HRankManerasSumarItemArr.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankManerasSumarItemArr\HRankManerasSumarItemArr\obj\Debug\net6.0\HRankManerasSumarItemArr.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankManerasSumarItemArr\HRankManerasSumarItemArr\obj\Debug\net6.0\HRankManerasSumarItemArr.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankManerasSumarItemArr\HRankManerasSumarItemArr\obj\Debug\net6.0\HRankManerasSumarItemArr.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankManerasSumarItemArr\HRankManerasSumarItemArr\obj\Debug\net6.0\refint\HRankManerasSumarItemArr.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankManerasSumarItemArr\HRankManerasSumarItemArr\obj\Debug\net6.0\HRankManerasSumarItemArr.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankManerasSumarItemArr\HRankManerasSumarItemArr\obj\Debug\net6.0\HRankManerasSumarItemArr.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankManerasSumarItemArr\HRankManerasSumarItemArr\obj\Debug\net6.0\ref\HRankManerasSumarItemArr.dll
