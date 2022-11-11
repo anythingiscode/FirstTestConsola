@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankIdMinDeMaxRepeticionId\HRankIdMinDeMaxRepeticionId\bin\Debug\net6.0\HRankIdMinDeMaxRepeticionId.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankIdMinDeMaxRepeticionId\HRankIdMinDeMaxRepeticionId\bin\Debug\net6.0\HRankIdMinDeMaxRepeticionId.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankIdMinDeMaxRepeticionId\HRankIdMinDeMaxRepeticionId\bin\Debug\net6.0\HRankIdMinDeMaxRepeticionId.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankIdMinDeMaxRepeticionId\HRankIdMinDeMaxRepeticionId\bin\Debug\net6.0\HRankIdMinDeMaxRepeticionId.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankIdMinDeMaxRepeticionId\HRankIdMinDeMaxRepeticionId\bin\Debug\net6.0\HRankIdMinDeMaxRepeticionId.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankIdMinDeMaxRepeticionId\HRankIdMinDeMaxRepeticionId\obj\Debug\net6.0\HRankIdMinDeMaxRepeticionId.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankIdMinDeMaxRepeticionId\HRankIdMinDeMaxRepeticionId\obj\Debug\net6.0\HRankIdMinDeMaxRepeticionId.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankIdMinDeMaxRepeticionId\HRankIdMinDeMaxRepeticionId\obj\Debug\net6.0\HRankIdMinDeMaxRepeticionId.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankIdMinDeMaxRepeticionId\HRankIdMinDeMaxRepeticionId\obj\Debug\net6.0\HRankIdMinDeMaxRepeticionId.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankIdMinDeMaxRepeticionId\HRankIdMinDeMaxRepeticionId\obj\Debug\net6.0\HRankIdMinDeMaxRepeticionId.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankIdMinDeMaxRepeticionId\HRankIdMinDeMaxRepeticionId\obj\Debug\net6.0\HRankIdMinDeMaxRepeticionId.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankIdMinDeMaxRepeticionId\HRankIdMinDeMaxRepeticionId\obj\Debug\net6.0\refint\HRankIdMinDeMaxRepeticionId.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankIdMinDeMaxRepeticionId\HRankIdMinDeMaxRepeticionId\obj\Debug\net6.0\HRankIdMinDeMaxRepeticionId.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankIdMinDeMaxRepeticionId\HRankIdMinDeMaxRepeticionId\obj\Debug\net6.0\HRankIdMinDeMaxRepeticionId.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankIdMinDeMaxRepeticionId\HRankIdMinDeMaxRepeticionId\obj\Debug\net6.0\ref\HRankIdMinDeMaxRepeticionId.dll
