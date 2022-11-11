@@ -34,7 +34,7 @@ public class Result
     public static int migratoryBirds(List<int> arr)
     {
         int MaxNumVistas = 0;
-        int MinId = 5;
+        int MinId = 5;      // 5 porque solo se admiten valores 1...5
         int numrep = 0;
         List<int> v = new List<int>();
         int i = 0;
