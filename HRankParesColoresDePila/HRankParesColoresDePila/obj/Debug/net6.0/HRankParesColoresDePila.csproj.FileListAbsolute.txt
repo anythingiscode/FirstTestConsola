@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankParesColoresDePila\HRankParesColoresDePila\bin\Debug\net6.0\HRankParesColoresDePila.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankParesColoresDePila\HRankParesColoresDePila\bin\Debug\net6.0\HRankParesColoresDePila.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankParesColoresDePila\HRankParesColoresDePila\bin\Debug\net6.0\HRankParesColoresDePila.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankParesColoresDePila\HRankParesColoresDePila\bin\Debug\net6.0\HRankParesColoresDePila.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankParesColoresDePila\HRankParesColoresDePila\bin\Debug\net6.0\HRankParesColoresDePila.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankParesColoresDePila\HRankParesColoresDePila\obj\Debug\net6.0\HRankParesColoresDePila.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankParesColoresDePila\HRankParesColoresDePila\obj\Debug\net6.0\HRankParesColoresDePila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankParesColoresDePila\HRankParesColoresDePila\obj\Debug\net6.0\HRankParesColoresDePila.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankParesColoresDePila\HRankParesColoresDePila\obj\Debug\net6.0\HRankParesColoresDePila.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankParesColoresDePila\HRankParesColoresDePila\obj\Debug\net6.0\HRankParesColoresDePila.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankParesColoresDePila\HRankParesColoresDePila\obj\Debug\net6.0\HRankParesColoresDePila.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankParesColoresDePila\HRankParesColoresDePila\obj\Debug\net6.0\refint\HRankParesColoresDePila.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankParesColoresDePila\HRankParesColoresDePila\obj\Debug\net6.0\HRankParesColoresDePila.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankParesColoresDePila\HRankParesColoresDePila\obj\Debug\net6.0\HRankParesColoresDePila.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankParesColoresDePila\HRankParesColoresDePila\obj\Debug\net6.0\ref\HRankParesColoresDePila.dll
