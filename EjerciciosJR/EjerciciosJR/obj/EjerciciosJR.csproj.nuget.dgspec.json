@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ROL\\C#\\APPs\\Test1\\EjerciciosJR\\EjerciciosJR\\EjerciciosJR.csproj": {}
+    "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjerciciosJR\\EjerciciosJR\\EjerciciosJR.csproj": {}
   },
   "projects": {
-    "C:\\ROL\\C#\\APPs\\Test1\\EjerciciosJR\\EjerciciosJR\\EjerciciosJR.csproj": {
+    "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjerciciosJR\\EjerciciosJR\\EjerciciosJR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ROL\\C#\\APPs\\Test1\\EjerciciosJR\\EjerciciosJR\\EjerciciosJR.csproj",
+        "projectUniqueName": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjerciciosJR\\EjerciciosJR\\EjerciciosJR.csproj",
         "projectName": "EjerciciosJR",
-        "projectPath": "C:\\ROL\\C#\\APPs\\Test1\\EjerciciosJR\\EjerciciosJR\\EjerciciosJR.csproj",
+        "projectPath": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjerciciosJR\\EjerciciosJR\\EjerciciosJR.csproj",
         "packagesPath": "C:\\Users\\ROL\\.nuget\\packages\\",
-        "outputPath": "C:\\ROL\\C#\\APPs\\Test1\\EjerciciosJR\\EjerciciosJR\\obj\\",
+        "outputPath": "C:\\Users\\ROL\\source\\repos\\anythingiscode\\FirstTestConsola\\EjerciciosJR\\EjerciciosJR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ROL\\AppData\\Roaming\\NuGet\\NuGet.Config",
