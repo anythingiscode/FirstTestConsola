@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTrianguloNoDegenerado\HRankTrianguloNoDegenerado\obj\Debug\net6.0\HRankTrianguloNoDegenerado.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTrianguloNoDegenerado\HRankTrianguloNoDegenerado\obj\Debug\net6.0\HRankTrianguloNoDegenerado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTrianguloNoDegenerado\HRankTrianguloNoDegenerado\obj\Debug\net6.0\HRankTrianguloNoDegenerado.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTrianguloNoDegenerado\HRankTrianguloNoDegenerado\obj\Debug\net6.0\HRankTrianguloNoDegenerado.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTrianguloNoDegenerado\HRankTrianguloNoDegenerado\obj\Debug\net6.0\HRankTrianguloNoDegenerado.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTrianguloNoDegenerado\HRankTrianguloNoDegenerado\bin\Debug\net6.0\HRankTrianguloNoDegenerado.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTrianguloNoDegenerado\HRankTrianguloNoDegenerado\bin\Debug\net6.0\HRankTrianguloNoDegenerado.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTrianguloNoDegenerado\HRankTrianguloNoDegenerado\bin\Debug\net6.0\HRankTrianguloNoDegenerado.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTrianguloNoDegenerado\HRankTrianguloNoDegenerado\bin\Debug\net6.0\HRankTrianguloNoDegenerado.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTrianguloNoDegenerado\HRankTrianguloNoDegenerado\bin\Debug\net6.0\HRankTrianguloNoDegenerado.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTrianguloNoDegenerado\HRankTrianguloNoDegenerado\obj\Debug\net6.0\HRankTrianguloNoDegenerado.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTrianguloNoDegenerado\HRankTrianguloNoDegenerado\obj\Debug\net6.0\refint\HRankTrianguloNoDegenerado.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTrianguloNoDegenerado\HRankTrianguloNoDegenerado\obj\Debug\net6.0\HRankTrianguloNoDegenerado.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTrianguloNoDegenerado\HRankTrianguloNoDegenerado\obj\Debug\net6.0\HRankTrianguloNoDegenerado.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTrianguloNoDegenerado\HRankTrianguloNoDegenerado\obj\Debug\net6.0\ref\HRankTrianguloNoDegenerado.dll
