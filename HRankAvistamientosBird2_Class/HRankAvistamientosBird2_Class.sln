@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRankAvistamientosBird2_Class", "HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class.csproj", "{DFA247C3-3E25-4EC4-A295-D831F0DD4650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA247C3-3E25-4EC4-A295-D831F0DD4650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA247C3-3E25-4EC4-A295-D831F0DD4650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA247C3-3E25-4EC4-A295-D831F0DD4650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA247C3-3E25-4EC4-A295-D831F0DD4650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACAE7AF8-45A8-4DA7-AD55-D71B319EB2EE}
+	EndGlobalSection
+EndGlobal

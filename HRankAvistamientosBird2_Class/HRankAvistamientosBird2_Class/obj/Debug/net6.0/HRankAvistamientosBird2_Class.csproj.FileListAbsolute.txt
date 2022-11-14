@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class\bin\Debug\net6.0\HRankAvistamientosBird2_Class.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class\bin\Debug\net6.0\HRankAvistamientosBird2_Class.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class\bin\Debug\net6.0\HRankAvistamientosBird2_Class.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class\bin\Debug\net6.0\HRankAvistamientosBird2_Class.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class\bin\Debug\net6.0\HRankAvistamientosBird2_Class.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class\obj\Debug\net6.0\HRankAvistamientosBird2_Class.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class\obj\Debug\net6.0\HRankAvistamientosBird2_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class\obj\Debug\net6.0\HRankAvistamientosBird2_Class.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class\obj\Debug\net6.0\HRankAvistamientosBird2_Class.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class\obj\Debug\net6.0\HRankAvistamientosBird2_Class.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class\obj\Debug\net6.0\HRankAvistamientosBird2_Class.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class\obj\Debug\net6.0\refint\HRankAvistamientosBird2_Class.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class\obj\Debug\net6.0\HRankAvistamientosBird2_Class.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class\obj\Debug\net6.0\HRankAvistamientosBird2_Class.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAvistamientosBird2_Class\HRankAvistamientosBird2_Class\obj\Debug\net6.0\ref\HRankAvistamientosBird2_Class.dll

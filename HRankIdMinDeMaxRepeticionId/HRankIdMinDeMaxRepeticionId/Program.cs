@@ -38,7 +38,7 @@ public class Result
         int numrep = 0;
         List<int> v = new List<int>();
         int i = 0;
-        while (v.Count() < 5 && i < arr.Count();
+        while (v.Count() < MinId && i < arr.Count();
         {
             if (!v.Contains(arr[i]))
             {
