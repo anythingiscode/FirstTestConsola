@@ -12,6 +12,9 @@ internal class Program
 
         int result = Result.pickingNumbers(a);
 
+        Console.WriteLine("\n\n Resultado : " + result);
+        Console.ReadKey();
+
         textWriter.WriteLine(result);
 
         textWriter.Flush();
@@ -51,36 +54,85 @@ class Result
 
     public static int pickingNumbers(List<int> a)
     {
-        List<int> result = new List<int>();
-        int j = 0, dif = 0, idx = 0, aux = 0;
-        int i = a.Count - 1;
-        while( i >= 2)
-        {            
-            result = CrearSubArray(a, i, j);
-            while (dif <= 1 && aux < i - 1 )
-            {                
-                dif = Math.Abs(result[idx] - result[aux]);                
-                aux ++;                
-            }            
-            dif = 0;
-            idx = 0;
-            aux = 1;
-            j++;
-            if (idx == i) return result.Count;
-            i--;
-        }
-        return 2;
-    }
+        int dif = 0, idx = 0, aux = 1;
+        int contador = 1, result = 2;
 
-    public static List<int> CrearSubArray(List<int> lista, int items, int inicio)
-    {
-        List<int> subArray = new List<int>();
-        for(int i = 0; i < items; i++)
+        a.Sort();
+        foreach (int i in a)
+            Console.Write(i + " ");
+
+        while (dif <= 1 && idx < a.Count - 2)
         {
-            subArray.Add(lista[i]);
+            while (dif <= 1 && aux <= a.Count - 1)
+            {
+                dif = Math.Abs(a[idx] - a[aux]);
+                aux++;
+                if(dif <=1) contador++;
+            }
+            if (result < contador) result = contador;
+            idx++;
+            aux = idx + 1;
+            dif = 0;
+            contador = 1;   
         }
-
-        return subArray;    
+    
+        return result;
     }
 
-}
+        /* if (idx == a.Count) return result.Count;
+          dif = 0;
+          idx = 0;
+          aux = 1;
+
+          for (int i = a.Count - 1; i > 2; i--)
+          {         
+              result = CrearSubArray(a, i);
+              while (dif <= 1 && idx < i - 1)
+              {                    
+                  while (dif <= 1 && aux <= i - 2)
+                  {
+                      dif = Math.Abs(result[idx] - result[aux]);
+                      aux++;
+                  }
+                  idx++;
+                  aux = idx + 1;                    
+              }
+              if (idx == i) return result.Count;
+              dif = 0;
+              idx = 0;
+              aux = 1;
+
+          }
+          return 2;
+      }
+
+      public static List<int> CrearSubArray(List<int> lista, int items)
+      {
+          List<int> subArray = new List<int>();
+          for (int i = 0; i < items; i++)
+          {
+              for (int j = i + 1; j < items; j++)
+              {
+                  for (int k = j + 1; k < items; k++)
+                  {
+                      subArray.Add(lista[i]);
+
+                      Console.Write($"{subArray[subArray.Count() - 1]} ");
+                  }
+              }
+          }
+
+          for (int i = inicio; i < items + inicio; i++)
+          {
+              subArray.Add(lista[i]);
+
+              Console.Write($"{subArray[subArray.Count()-1]} ");
+
+
+          }
+          Console.WriteLine();
+
+          return subArray;    
+      }*/
+
+    }
