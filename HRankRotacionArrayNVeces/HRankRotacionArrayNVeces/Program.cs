@@ -17,7 +17,7 @@ internal class Program
 
         textWriter.WriteLine(String.Join(" ", result));
         Console.WriteLine();
-        foreach(int i in arr)
+        foreach(int i in result)
             Console.Write(i + " ");
 
         Console.ReadLine();
@@ -45,15 +45,15 @@ class Result
         if (d%arr.Count == 0) return arr;
         else
         {
+            //1º parte del array : la que contiene los items que no "salen" del vector
             for (int i = 0; i < arr.Count - (d % arr.Count); i++)
             {
-                result.Add(arr[i + (d % arr.Count)]);
-
-                //result.Add(arr[arr.Count - (d%arr.Count) - i]);
+                result.Add(arr[i + (d % arr.Count)]);                
             }
-            for (int i = (d % arr.Count); i > 0 ; i--)
+            //2º parte del array : la que contiene los items que Sí "salen" del vector
+            for (int i = 0; i < (d % arr.Count); i++)
             {
-                result.Add(arr[i - 1]);
+                result.Add(arr[i]);
             }
             return result;
         }
