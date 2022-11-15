@@ -40,24 +40,43 @@ class Result
 
     public static List<int> rotateLeft(int d, List<int> arr)
     {
-        List<int> result = new List<int>();
+        // Solucion sin iteración : (solo funciona si se rota entre 1 y n veces --> n : num de elementos del vector)
 
-        if (d%arr.Count == 0) return arr;
-        else
-        {
-            //1º parte del array : la que contiene los items que no "salen" del vector
-            for (int i = 0; i < arr.Count - (d % arr.Count); i++)
-            {
-                result.Add(arr[i + (d % arr.Count)]);                
-            }
-            //2º parte del array : la que contiene los items que Sí "salen" del vector
-            for (int i = 0; i < (d % arr.Count); i++)
-            {
-                result.Add(arr[i]);
-            }
-            return result;
-        }
+        //List<int> lst = new List<int>();
+        //var rest = arr.Skip(d);     //Toma los elementos del vector desde d
+        //var rotat=arr.Take(d);      //Toma los elementos del vector hasta d
+        //lst.AddRange(rest);         // Insertar un rango --> vector
+        //lst.AddRange(rotat);
+        //return lst;
+
         
+        // La mejor solucion. Solo que si hay muchas iteraciones N > arr.count --> podria ser poco eficaz
+        for (int i = 0; i < d; i++)
+        {
+            arr.Add(arr[0]);
+            arr.Remove(arr[0]);
+        }
+
+        return arr;
+
+        //List<int> result = new List<int>();
+
+        //if (d % arr.Count == 0) return arr;
+        //else
+        //{
+        //    //1º parte del array : la que contiene los items que no "salen" del vector
+        //    for (int i = 0; i < arr.Count - (d % arr.Count); i++)
+        //    {
+        //        result.Add(arr[i + (d % arr.Count)]);
+        //    }
+        //    //2º parte del array : la que contiene los items que Sí "salen" del vector
+        //    for (int i = 0; i < (d % arr.Count); i++)
+        //    {
+        //        result.Add(arr[i]);
+        //    }
+        //    return result;
+        //}
+
     }
 
 }
