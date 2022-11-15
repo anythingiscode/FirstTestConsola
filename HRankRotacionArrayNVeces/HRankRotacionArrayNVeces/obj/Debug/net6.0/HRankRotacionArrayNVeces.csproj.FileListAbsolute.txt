@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRotacionArrayNVeces\HRankRotacionArrayNVeces\bin\Debug\net6.0\HRankRotacionArrayNVeces.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRotacionArrayNVeces\HRankRotacionArrayNVeces\bin\Debug\net6.0\HRankRotacionArrayNVeces.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRotacionArrayNVeces\HRankRotacionArrayNVeces\bin\Debug\net6.0\HRankRotacionArrayNVeces.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRotacionArrayNVeces\HRankRotacionArrayNVeces\bin\Debug\net6.0\HRankRotacionArrayNVeces.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRotacionArrayNVeces\HRankRotacionArrayNVeces\bin\Debug\net6.0\HRankRotacionArrayNVeces.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRotacionArrayNVeces\HRankRotacionArrayNVeces\obj\Debug\net6.0\HRankRotacionArrayNVeces.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRotacionArrayNVeces\HRankRotacionArrayNVeces\obj\Debug\net6.0\HRankRotacionArrayNVeces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRotacionArrayNVeces\HRankRotacionArrayNVeces\obj\Debug\net6.0\HRankRotacionArrayNVeces.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRotacionArrayNVeces\HRankRotacionArrayNVeces\obj\Debug\net6.0\HRankRotacionArrayNVeces.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRotacionArrayNVeces\HRankRotacionArrayNVeces\obj\Debug\net6.0\HRankRotacionArrayNVeces.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRotacionArrayNVeces\HRankRotacionArrayNVeces\obj\Debug\net6.0\HRankRotacionArrayNVeces.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRotacionArrayNVeces\HRankRotacionArrayNVeces\obj\Debug\net6.0\refint\HRankRotacionArrayNVeces.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRotacionArrayNVeces\HRankRotacionArrayNVeces\obj\Debug\net6.0\HRankRotacionArrayNVeces.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRotacionArrayNVeces\HRankRotacionArrayNVeces\obj\Debug\net6.0\HRankRotacionArrayNVeces.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRotacionArrayNVeces\HRankRotacionArrayNVeces\obj\Debug\net6.0\ref\HRankRotacionArrayNVeces.dll
