@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankGirarPag\HRankGirarPag\obj\Debug\net6.0\HRankGirarPag.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankGirarPag\HRankGirarPag\obj\Debug\net6.0\HRankGirarPag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankGirarPag\HRankGirarPag\obj\Debug\net6.0\HRankGirarPag.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankGirarPag\HRankGirarPag\obj\Debug\net6.0\HRankGirarPag.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankGirarPag\HRankGirarPag\obj\Debug\net6.0\HRankGirarPag.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankGirarPag\HRankGirarPag\bin\Debug\net6.0\HRankGirarPag.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankGirarPag\HRankGirarPag\bin\Debug\net6.0\HRankGirarPag.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankGirarPag\HRankGirarPag\bin\Debug\net6.0\HRankGirarPag.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankGirarPag\HRankGirarPag\bin\Debug\net6.0\HRankGirarPag.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankGirarPag\HRankGirarPag\bin\Debug\net6.0\HRankGirarPag.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankGirarPag\HRankGirarPag\obj\Debug\net6.0\HRankGirarPag.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankGirarPag\HRankGirarPag\obj\Debug\net6.0\refint\HRankGirarPag.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankGirarPag\HRankGirarPag\obj\Debug\net6.0\HRankGirarPag.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankGirarPag\HRankGirarPag\obj\Debug\net6.0\HRankGirarPag.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankGirarPag\HRankGirarPag\obj\Debug\net6.0\ref\HRankGirarPag.dll
