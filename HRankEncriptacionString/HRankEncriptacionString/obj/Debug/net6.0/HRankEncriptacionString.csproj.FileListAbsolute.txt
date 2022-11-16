@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankEncriptacionString\HRankEncriptacionString\obj\Debug\net6.0\HRankEncriptacionString.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankEncriptacionString\HRankEncriptacionString\obj\Debug\net6.0\HRankEncriptacionString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankEncriptacionString\HRankEncriptacionString\obj\Debug\net6.0\HRankEncriptacionString.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankEncriptacionString\HRankEncriptacionString\obj\Debug\net6.0\HRankEncriptacionString.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankEncriptacionString\HRankEncriptacionString\obj\Debug\net6.0\HRankEncriptacionString.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankEncriptacionString\HRankEncriptacionString\bin\Debug\net6.0\HRankEncriptacionString.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankEncriptacionString\HRankEncriptacionString\bin\Debug\net6.0\HRankEncriptacionString.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankEncriptacionString\HRankEncriptacionString\bin\Debug\net6.0\HRankEncriptacionString.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankEncriptacionString\HRankEncriptacionString\bin\Debug\net6.0\HRankEncriptacionString.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankEncriptacionString\HRankEncriptacionString\bin\Debug\net6.0\HRankEncriptacionString.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankEncriptacionString\HRankEncriptacionString\obj\Debug\net6.0\HRankEncriptacionString.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankEncriptacionString\HRankEncriptacionString\obj\Debug\net6.0\refint\HRankEncriptacionString.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankEncriptacionString\HRankEncriptacionString\obj\Debug\net6.0\HRankEncriptacionString.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankEncriptacionString\HRankEncriptacionString\obj\Debug\net6.0\HRankEncriptacionString.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankEncriptacionString\HRankEncriptacionString\obj\Debug\net6.0\ref\HRankEncriptacionString.dll
