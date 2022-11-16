@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTowerBreakers\HRankTowerBreakers\bin\Debug\net6.0\HRankTowerBreakers.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTowerBreakers\HRankTowerBreakers\bin\Debug\net6.0\HRankTowerBreakers.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTowerBreakers\HRankTowerBreakers\bin\Debug\net6.0\HRankTowerBreakers.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTowerBreakers\HRankTowerBreakers\bin\Debug\net6.0\HRankTowerBreakers.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTowerBreakers\HRankTowerBreakers\bin\Debug\net6.0\HRankTowerBreakers.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTowerBreakers\HRankTowerBreakers\obj\Debug\net6.0\HRankTowerBreakers.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTowerBreakers\HRankTowerBreakers\obj\Debug\net6.0\HRankTowerBreakers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTowerBreakers\HRankTowerBreakers\obj\Debug\net6.0\HRankTowerBreakers.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTowerBreakers\HRankTowerBreakers\obj\Debug\net6.0\HRankTowerBreakers.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTowerBreakers\HRankTowerBreakers\obj\Debug\net6.0\HRankTowerBreakers.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTowerBreakers\HRankTowerBreakers\obj\Debug\net6.0\HRankTowerBreakers.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTowerBreakers\HRankTowerBreakers\obj\Debug\net6.0\refint\HRankTowerBreakers.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTowerBreakers\HRankTowerBreakers\obj\Debug\net6.0\HRankTowerBreakers.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTowerBreakers\HRankTowerBreakers\obj\Debug\net6.0\HRankTowerBreakers.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTowerBreakers\HRankTowerBreakers\obj\Debug\net6.0\ref\HRankTowerBreakers.dll
