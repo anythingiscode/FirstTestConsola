@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSaltoDeCanguro\HRankSaltoDeCanguro\bin\Debug\net6.0\HRankSaltoDeCanguro.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSaltoDeCanguro\HRankSaltoDeCanguro\bin\Debug\net6.0\HRankSaltoDeCanguro.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSaltoDeCanguro\HRankSaltoDeCanguro\bin\Debug\net6.0\HRankSaltoDeCanguro.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSaltoDeCanguro\HRankSaltoDeCanguro\bin\Debug\net6.0\HRankSaltoDeCanguro.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSaltoDeCanguro\HRankSaltoDeCanguro\bin\Debug\net6.0\HRankSaltoDeCanguro.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSaltoDeCanguro\HRankSaltoDeCanguro\obj\Debug\net6.0\HRankSaltoDeCanguro.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSaltoDeCanguro\HRankSaltoDeCanguro\obj\Debug\net6.0\HRankSaltoDeCanguro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSaltoDeCanguro\HRankSaltoDeCanguro\obj\Debug\net6.0\HRankSaltoDeCanguro.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSaltoDeCanguro\HRankSaltoDeCanguro\obj\Debug\net6.0\HRankSaltoDeCanguro.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSaltoDeCanguro\HRankSaltoDeCanguro\obj\Debug\net6.0\HRankSaltoDeCanguro.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSaltoDeCanguro\HRankSaltoDeCanguro\obj\Debug\net6.0\HRankSaltoDeCanguro.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSaltoDeCanguro\HRankSaltoDeCanguro\obj\Debug\net6.0\refint\HRankSaltoDeCanguro.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSaltoDeCanguro\HRankSaltoDeCanguro\obj\Debug\net6.0\HRankSaltoDeCanguro.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSaltoDeCanguro\HRankSaltoDeCanguro\obj\Debug\net6.0\HRankSaltoDeCanguro.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSaltoDeCanguro\HRankSaltoDeCanguro\obj\Debug\net6.0\ref\HRankSaltoDeCanguro.dll
