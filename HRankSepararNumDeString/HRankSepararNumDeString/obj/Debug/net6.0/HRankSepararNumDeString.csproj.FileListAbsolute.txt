@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSepararNumDeString\HRankSepararNumDeString\bin\Debug\net6.0\HRankSepararNumDeString.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSepararNumDeString\HRankSepararNumDeString\bin\Debug\net6.0\HRankSepararNumDeString.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSepararNumDeString\HRankSepararNumDeString\bin\Debug\net6.0\HRankSepararNumDeString.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSepararNumDeString\HRankSepararNumDeString\bin\Debug\net6.0\HRankSepararNumDeString.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSepararNumDeString\HRankSepararNumDeString\bin\Debug\net6.0\HRankSepararNumDeString.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSepararNumDeString\HRankSepararNumDeString\obj\Debug\net6.0\HRankSepararNumDeString.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSepararNumDeString\HRankSepararNumDeString\obj\Debug\net6.0\HRankSepararNumDeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSepararNumDeString\HRankSepararNumDeString\obj\Debug\net6.0\HRankSepararNumDeString.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSepararNumDeString\HRankSepararNumDeString\obj\Debug\net6.0\HRankSepararNumDeString.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSepararNumDeString\HRankSepararNumDeString\obj\Debug\net6.0\HRankSepararNumDeString.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSepararNumDeString\HRankSepararNumDeString\obj\Debug\net6.0\HRankSepararNumDeString.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSepararNumDeString\HRankSepararNumDeString\obj\Debug\net6.0\refint\HRankSepararNumDeString.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSepararNumDeString\HRankSepararNumDeString\obj\Debug\net6.0\HRankSepararNumDeString.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSepararNumDeString\HRankSepararNumDeString\obj\Debug\net6.0\HRankSepararNumDeString.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSepararNumDeString\HRankSepararNumDeString\obj\Debug\net6.0\ref\HRankSepararNumDeString.dll
