@@ -37,7 +37,7 @@ class Result
         arr.Sort();
         int dif = Math.Abs(arr[1] - arr[0]);
         int difAux = 0;
-        for(int i = 0; i < arr.Count - 1; i++)
+        for(int i = 1; i < arr.Count - 1; i++)
         {
             difAux = Math.Abs(arr[i] - arr[i + 1]);
             if(difAux < dif) dif = difAux;
