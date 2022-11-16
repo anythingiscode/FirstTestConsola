@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankclosestNumbers\HRankclosestNumbers\bin\Debug\net6.0\HRankclosestNumbers.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankclosestNumbers\HRankclosestNumbers\bin\Debug\net6.0\HRankclosestNumbers.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankclosestNumbers\HRankclosestNumbers\bin\Debug\net6.0\HRankclosestNumbers.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankclosestNumbers\HRankclosestNumbers\bin\Debug\net6.0\HRankclosestNumbers.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankclosestNumbers\HRankclosestNumbers\bin\Debug\net6.0\HRankclosestNumbers.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankclosestNumbers\HRankclosestNumbers\obj\Debug\net6.0\HRankclosestNumbers.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankclosestNumbers\HRankclosestNumbers\obj\Debug\net6.0\HRankclosestNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankclosestNumbers\HRankclosestNumbers\obj\Debug\net6.0\HRankclosestNumbers.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankclosestNumbers\HRankclosestNumbers\obj\Debug\net6.0\HRankclosestNumbers.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankclosestNumbers\HRankclosestNumbers\obj\Debug\net6.0\HRankclosestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankclosestNumbers\HRankclosestNumbers\obj\Debug\net6.0\HRankclosestNumbers.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankclosestNumbers\HRankclosestNumbers\obj\Debug\net6.0\refint\HRankclosestNumbers.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankclosestNumbers\HRankclosestNumbers\obj\Debug\net6.0\HRankclosestNumbers.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankclosestNumbers\HRankclosestNumbers\obj\Debug\net6.0\HRankclosestNumbers.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankclosestNumbers\HRankclosestNumbers\obj\Debug\net6.0\ref\HRankclosestNumbers.dll
