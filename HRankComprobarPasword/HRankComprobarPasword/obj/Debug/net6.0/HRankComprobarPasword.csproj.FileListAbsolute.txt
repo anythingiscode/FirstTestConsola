@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankComprobarPasword\HRankComprobarPasword\bin\Debug\net6.0\HRankComprobarPasword.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankComprobarPasword\HRankComprobarPasword\bin\Debug\net6.0\HRankComprobarPasword.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankComprobarPasword\HRankComprobarPasword\bin\Debug\net6.0\HRankComprobarPasword.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankComprobarPasword\HRankComprobarPasword\bin\Debug\net6.0\HRankComprobarPasword.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankComprobarPasword\HRankComprobarPasword\bin\Debug\net6.0\HRankComprobarPasword.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankComprobarPasword\HRankComprobarPasword\obj\Debug\net6.0\HRankComprobarPasword.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankComprobarPasword\HRankComprobarPasword\obj\Debug\net6.0\HRankComprobarPasword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankComprobarPasword\HRankComprobarPasword\obj\Debug\net6.0\HRankComprobarPasword.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankComprobarPasword\HRankComprobarPasword\obj\Debug\net6.0\HRankComprobarPasword.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankComprobarPasword\HRankComprobarPasword\obj\Debug\net6.0\HRankComprobarPasword.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankComprobarPasword\HRankComprobarPasword\obj\Debug\net6.0\HRankComprobarPasword.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankComprobarPasword\HRankComprobarPasword\obj\Debug\net6.0\refint\HRankComprobarPasword.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankComprobarPasword\HRankComprobarPasword\obj\Debug\net6.0\HRankComprobarPasword.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankComprobarPasword\HRankComprobarPasword\obj\Debug\net6.0\HRankComprobarPasword.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankComprobarPasword\HRankComprobarPasword\obj\Debug\net6.0\ref\HRankComprobarPasword.dll
