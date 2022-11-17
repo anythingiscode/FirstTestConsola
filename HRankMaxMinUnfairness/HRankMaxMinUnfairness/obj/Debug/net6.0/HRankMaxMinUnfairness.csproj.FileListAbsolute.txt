@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMaxMinUnfairness\HRankMaxMinUnfairness\bin\Debug\net6.0\HRankMaxMinUnfairness.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMaxMinUnfairness\HRankMaxMinUnfairness\bin\Debug\net6.0\HRankMaxMinUnfairness.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMaxMinUnfairness\HRankMaxMinUnfairness\bin\Debug\net6.0\HRankMaxMinUnfairness.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMaxMinUnfairness\HRankMaxMinUnfairness\bin\Debug\net6.0\HRankMaxMinUnfairness.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMaxMinUnfairness\HRankMaxMinUnfairness\bin\Debug\net6.0\HRankMaxMinUnfairness.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMaxMinUnfairness\HRankMaxMinUnfairness\obj\Debug\net6.0\HRankMaxMinUnfairness.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMaxMinUnfairness\HRankMaxMinUnfairness\obj\Debug\net6.0\HRankMaxMinUnfairness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMaxMinUnfairness\HRankMaxMinUnfairness\obj\Debug\net6.0\HRankMaxMinUnfairness.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMaxMinUnfairness\HRankMaxMinUnfairness\obj\Debug\net6.0\HRankMaxMinUnfairness.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMaxMinUnfairness\HRankMaxMinUnfairness\obj\Debug\net6.0\HRankMaxMinUnfairness.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMaxMinUnfairness\HRankMaxMinUnfairness\obj\Debug\net6.0\HRankMaxMinUnfairness.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMaxMinUnfairness\HRankMaxMinUnfairness\obj\Debug\net6.0\refint\HRankMaxMinUnfairness.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMaxMinUnfairness\HRankMaxMinUnfairness\obj\Debug\net6.0\HRankMaxMinUnfairness.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMaxMinUnfairness\HRankMaxMinUnfairness\obj\Debug\net6.0\HRankMaxMinUnfairness.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankMaxMinUnfairness\HRankMaxMinUnfairness\obj\Debug\net6.0\ref\HRankMaxMinUnfairness.dll
