@@ -1,5 +1,6 @@
 ﻿using System.Collections.Immutable;
 using System.IO;
+using System.Xml;
 
 internal class Program
 {
@@ -38,7 +39,7 @@ class Result
      * The function accepts following parameters:
      *  1. INTEGER k
      *  2. INTEGER_ARRAY arr
-     */
+     
     public static IEnumerable<IEnumerable<T>> Combinations<T>(IEnumerable<T> elements, int k)
     {  
         return k == 0 ? new[] { new T[0] } :
@@ -52,29 +53,36 @@ class Result
             elements.SelectMany((e, i) =>
                 elements.Skip(i + 1).Combinaciones(k - 1).Select(c => (new[] { e }).Concat(c)));
     }
+    */
 
     public static int maxMin(int k, List<int> arr)
     {
-        List<int> minArr = new List<int>();
-        int[] arr1;
-        int resta = 0;
-        //var result = Combinations(new[] { 1, 2, 3, 4, 5 }, 3);
-        arr1 = arr.ToArray();
-        var result = Combinations(arr, k);
-        List<int> resultComb = Combinaciones(arr, k);
 
-        for (int j= 0; j < arr.Count; j++)
-        {
-            arr.Chunk(k);
-        }
+        //arr.Sort((a,b)=>a-b);
+
+        int count = int.MaxValue;
         
-        for (int i = 0; i < k; i++)
-        {
-            minArr.Add(arr[i]); 
-        }
-        resta = minArr.Max() - minArr.Min();
+        arr.Sort();
 
-        return resta;
+        for (int i = 0; i < arr.Count - k + 1; i++)
+        {
+            count = Math.Min(count, arr[i + k - 1] - arr[i]);
+        }
+
+        return count;
+
+        //int restAux = 0;
+        //int resta = int.MaxValue;
+        //arr.Sort();
+
+        //for (int i = 0; i < arr.Count - k + 1; i++)
+        //{
+        //    restAux = arr[i + k - 1] - arr[i];
+        //    if (restAux < resta) resta = restAux;
+        //}
+
+        //return resta;
     }
+}
 
 }
