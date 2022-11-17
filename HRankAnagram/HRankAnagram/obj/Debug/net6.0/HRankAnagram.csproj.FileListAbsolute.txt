@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAnagram\HRankAnagram\obj\Debug\net6.0\HRankAnagram.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAnagram\HRankAnagram\obj\Debug\net6.0\HRankAnagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAnagram\HRankAnagram\obj\Debug\net6.0\HRankAnagram.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAnagram\HRankAnagram\obj\Debug\net6.0\HRankAnagram.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAnagram\HRankAnagram\obj\Debug\net6.0\HRankAnagram.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAnagram\HRankAnagram\bin\Debug\net6.0\HRankAnagram.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAnagram\HRankAnagram\bin\Debug\net6.0\HRankAnagram.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAnagram\HRankAnagram\bin\Debug\net6.0\HRankAnagram.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAnagram\HRankAnagram\bin\Debug\net6.0\HRankAnagram.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAnagram\HRankAnagram\bin\Debug\net6.0\HRankAnagram.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAnagram\HRankAnagram\obj\Debug\net6.0\HRankAnagram.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAnagram\HRankAnagram\obj\Debug\net6.0\refint\HRankAnagram.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAnagram\HRankAnagram\obj\Debug\net6.0\HRankAnagram.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAnagram\HRankAnagram\obj\Debug\net6.0\HRankAnagram.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankAnagram\HRankAnagram\obj\Debug\net6.0\ref\HRankAnagram.dll
