@@ -1,5 +1,6 @@
 ﻿using System.IO;
 using System.Linq;
+using System.Runtime.InteropServices;
 
 internal class Program
 {
@@ -41,66 +42,55 @@ class Result
      *  Decir que falta en arr que sí está en brr, incluido los repetidos que tienen que tener la misma frecuencia en ambas, sino se considera que falta
      */
 
+
+    //def missingNumbers(arr, brr):
+    //return [x for x in set(brr) if brr.count(x) != arr.count(x)]
+
     public static List<int> missingNumbers(List<int> arr, List<int> brr)
     {
-        string cadena = "sdflhsldfkjnñsdfkjnñslfn";
-
-        var resultCadena = cadena.GroupBy(p => p).Select(g => new { g.Key, Count = g.Count() }).OrderByDescending(a => a.Count).ToList();
-        
-        Console.WriteLine("REsultado con lambda : ");
-        foreach (var c in resultCadena)
-        {
-            Console.WriteLine(c.Key);
-            Console.WriteLine(c.Count);
-        }
-
         List<int> result = new List<int>();
 
-        //return brr.Select(x => brr.Count() != arr.Count());
 
-       
-        
-        
-        //foreach(var c in resultCadena)
+        for(int i = 0; i < brr.Count; i++)
+        {
+            if (!result.Contains(brr[i]))
+            {
+                //int eso = brr.Count(x => x.Equals(brr[i]));
+                //Console.WriteLine("brr : " + eso + " " +brr[i]);
+                //int eso2 = arr.Count(x => x.Equals(brr[i]));
+                //Console.WriteLine("arr :" + eso2 + " " + brr[i]);
+                if (brr.Count(x => x.Equals(brr[i])) != arr.Count(x => x.Equals(brr[i])))                  
+                {
+                    result.Add(brr[i]);
+                }
+            }
+        }
+        result.Sort();
+        //IEnumerable<int> list = result.Distinct();
+        return result;
+
+        //List<int> result = new List<int>();
+        //arr.Sort();
+        //brr.Sort();       
+
+        //for (int i = 0; i < arr.Count; i++)
         //{
-        //    Console.WriteLine(c.caracter);
-        //    Console.WriteLine(c.repeticiones);
-        //}
-
-        Console.ReadKey();
-
-
-
-
-
-
-        return brr;
-
-        //        List<int> result = new List<int>();
-        //        arr.Sort();
-        //        brr.Sort();
-
-        //Dictionary<int, int> map = new Dictionary<int, int>();
-        //        map.ContainsKey(brr[12]);
-
-        //        for(int i= 0; i < arr.Count; i++)
+        //    if (brr[i] != arr[i])
+        //    {
+        //        if (arr[i] < brr[i])
         //        {
-        //            if (brr[i] != arr[i])
-        //            {
-        //                if(arr[i] < brr[i])
-        //                {
-        //                    arr.Remove(arr[i]);
-        //                    i--;
-        //                }
-        //                else
-        //                {
-        //                    result.Add(brr[i]);
-        //                    brr.Remove(brr[i]);
-        //                    i--;
-        //                }                
-        //            }    
+        //            arr.Remove(arr[i]);
+        //            i--;
         //        }
-        //        return result;
+        //        else
+        //        {
+        //            result.Add(brr[i]);
+        //            brr.Remove(brr[i]);
+        //            i--;
+        //        }
+        //    }
+        //}
+        //return result;
 
     }
 
