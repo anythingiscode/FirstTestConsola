@@ -49,9 +49,11 @@ class Result
     public static List<int> missingNumbers(List<int> arr, List<int> brr)
     {
         List<int> result = new List<int>();
+        int i = 0;
 
 
-        for(int i = 0; i < brr.Count; i++)
+        //for(int i = 0; i < brr.Count; i++)
+        while(i < brr.Count && result.Count != brr.Count - arr.Count) //Para optimizar el tiempo hago que el bucle se pare si ya he encontre el num de items == a la dif. de longitud de los vectores
         {
             if (!result.Contains(brr[i]))
             {
@@ -62,6 +64,7 @@ class Result
                 if (brr.Count(x => x.Equals(brr[i])) != arr.Count(x => x.Equals(brr[i])))                  
                 {
                     result.Add(brr[i]);
+                    
                 }
             }
         }
