@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\CosasDeLambda\CosasDeLambda\bin\Debug\net6.0\CosasDeLambda.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\CosasDeLambda\CosasDeLambda\bin\Debug\net6.0\CosasDeLambda.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\CosasDeLambda\CosasDeLambda\bin\Debug\net6.0\CosasDeLambda.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\CosasDeLambda\CosasDeLambda\bin\Debug\net6.0\CosasDeLambda.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\CosasDeLambda\CosasDeLambda\bin\Debug\net6.0\CosasDeLambda.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\CosasDeLambda\CosasDeLambda\obj\Debug\net6.0\CosasDeLambda.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\CosasDeLambda\CosasDeLambda\obj\Debug\net6.0\CosasDeLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\CosasDeLambda\CosasDeLambda\obj\Debug\net6.0\CosasDeLambda.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\CosasDeLambda\CosasDeLambda\obj\Debug\net6.0\CosasDeLambda.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\CosasDeLambda\CosasDeLambda\obj\Debug\net6.0\CosasDeLambda.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\CosasDeLambda\CosasDeLambda\obj\Debug\net6.0\CosasDeLambda.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\CosasDeLambda\CosasDeLambda\obj\Debug\net6.0\refint\CosasDeLambda.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\CosasDeLambda\CosasDeLambda\obj\Debug\net6.0\CosasDeLambda.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\CosasDeLambda\CosasDeLambda\obj\Debug\net6.0\CosasDeLambda.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\CosasDeLambda\CosasDeLambda\obj\Debug\net6.0\ref\CosasDeLambda.dll

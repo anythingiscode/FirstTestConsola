@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankItemsLessInArray\HRankItemsLessInArray\bin\Debug\net6.0\HRankItemsLessInArray.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankItemsLessInArray\HRankItemsLessInArray\bin\Debug\net6.0\HRankItemsLessInArray.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankItemsLessInArray\HRankItemsLessInArray\bin\Debug\net6.0\HRankItemsLessInArray.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankItemsLessInArray\HRankItemsLessInArray\bin\Debug\net6.0\HRankItemsLessInArray.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankItemsLessInArray\HRankItemsLessInArray\bin\Debug\net6.0\HRankItemsLessInArray.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankItemsLessInArray\HRankItemsLessInArray\obj\Debug\net6.0\HRankItemsLessInArray.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankItemsLessInArray\HRankItemsLessInArray\obj\Debug\net6.0\HRankItemsLessInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankItemsLessInArray\HRankItemsLessInArray\obj\Debug\net6.0\HRankItemsLessInArray.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankItemsLessInArray\HRankItemsLessInArray\obj\Debug\net6.0\HRankItemsLessInArray.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankItemsLessInArray\HRankItemsLessInArray\obj\Debug\net6.0\HRankItemsLessInArray.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankItemsLessInArray\HRankItemsLessInArray\obj\Debug\net6.0\HRankItemsLessInArray.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankItemsLessInArray\HRankItemsLessInArray\obj\Debug\net6.0\refint\HRankItemsLessInArray.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankItemsLessInArray\HRankItemsLessInArray\obj\Debug\net6.0\HRankItemsLessInArray.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankItemsLessInArray\HRankItemsLessInArray\obj\Debug\net6.0\HRankItemsLessInArray.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankItemsLessInArray\HRankItemsLessInArray\obj\Debug\net6.0\ref\HRankItemsLessInArray.dll
