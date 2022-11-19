@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankcountSort\HRankcountSort\bin\Debug\net6.0\HRankcountSort.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankcountSort\HRankcountSort\bin\Debug\net6.0\HRankcountSort.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankcountSort\HRankcountSort\bin\Debug\net6.0\HRankcountSort.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankcountSort\HRankcountSort\bin\Debug\net6.0\HRankcountSort.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankcountSort\HRankcountSort\bin\Debug\net6.0\HRankcountSort.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankcountSort\HRankcountSort\obj\Debug\net6.0\HRankcountSort.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankcountSort\HRankcountSort\obj\Debug\net6.0\HRankcountSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankcountSort\HRankcountSort\obj\Debug\net6.0\HRankcountSort.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankcountSort\HRankcountSort\obj\Debug\net6.0\HRankcountSort.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankcountSort\HRankcountSort\obj\Debug\net6.0\HRankcountSort.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankcountSort\HRankcountSort\obj\Debug\net6.0\HRankcountSort.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankcountSort\HRankcountSort\obj\Debug\net6.0\refint\HRankcountSort.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankcountSort\HRankcountSort\obj\Debug\net6.0\HRankcountSort.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankcountSort\HRankcountSort\obj\Debug\net6.0\HRankcountSort.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankcountSort\HRankcountSort\obj\Debug\net6.0\ref\HRankcountSort.dll
