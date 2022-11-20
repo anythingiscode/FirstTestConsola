@@ -17,6 +17,25 @@ internal class Program
         Result.countSort(arr);
     }
 }
+class ItemList
+{
+    private int _idx;
+    private string _pos;
+    private string _str;
+
+    public int Idx { get => _idx; set => _idx = value; }
+    public string Pos { get => _pos; set => _pos = value; }
+    public string Str { get => _str; set => _str = value; }
+
+    public ItemList(int idx, string pos, string str)
+    {
+        Idx = idx;
+        Pos = pos;
+        Str = str;
+    }
+
+    public ItemList() { }
+}
 class Result
 {
 
@@ -46,18 +65,32 @@ class Result
 
         //Console.WriteLine(response.Aggregate((a, b)
         //    => a + " " + b));
+        int nx = arr.Count;
+        ItemList[] result = new ItemList[nx];
+        //ItemList Item = new ItemList();
 
 
-        for (int i = 0; i < arr.Count / 2; i++)
+        for (int i = 0; i < nx / 2; i++)
         {
             arr[i][1] = "-";
         }
+        for(int i = 0; i < nx; i++)
+        {
+            ItemList Item = new ItemList();
+            Item.Idx = Convert.ToInt32(arr[i][0]);
+            Item.Pos = arr[i][0];
+            Item.Str = arr[i][1];
+            result[i]= Item;
+            //result.Add( new ItemList(Convert.ToInt32(arr[i][0]), arr[i][0], arr[i][1]));
+            //result.Add(new ItemList(Item));
+        }
+        result.OrderBy(x => x.Idx);
        
        
 
-        foreach(List<string> item in arr)
+        foreach(var x in result)
         {
-            Console.Write(Convert.ToString(item[1] + " "));
+            Console.Write(Convert.ToString(x + " "));
         }
         Console.ReadKey();
 
