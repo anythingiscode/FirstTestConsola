@@ -25,8 +25,10 @@ internal class Program
             string result = Result.gridChallenge(grid);
 
             textWriter.WriteLine(result);
+            Console.WriteLine(result);
+            
         }
-
+        Console.ReadKey();
         textWriter.Flush();
         textWriter.Close();
     }
@@ -44,52 +46,39 @@ class Result
     public static string gridChallenge(List<string> grid)
     {
         List<List<char>> gridChars = new List<List<char>>();       
-        List<char> gridItem = new List<char>();
-        List<char> gridItemAux = new List<char>();
+        List<char> ItemCol = new();
+        List<char> ItemColAux = new();
         bool ordenado = true;
-
-        Console.WriteLine("empieza aqui : \n");
-        foreach (string s in grid)
-        {
-            Console.WriteLine(s + " ");
-        }
-        Console.WriteLine();
+        int nx = grid[0].Length;    
 
         for (int i = 0; i < grid.Count; i++)
         {
             List<char> str = grid[i].ToList();
             str.Sort();
-            gridChars.Add(str);
-            //gridChars.Add(new List<char>(str));         
+            gridChars.Add(str);             
         }
-        foreach (var c in gridChars) Console.WriteLine(c[0].ToString());
-        Console.ReadKey();
-
-        int f = 0, k = 0;
-        while (ordenado &&  f < grid.Count)
+        
+        int col = 0, idx = 0;
+        while (ordenado &&  col < nx)
         {            
-            for(int j = 0; j < grid.Count; j++)
+            for(int fil = 0; fil < grid.Count; fil++)
             {
-                gridItem.Concat(gridChars[j]);
-            }            
-            gridItem.Sort();
-            while (gridItem[k].Equals(gridChars[k]))
+                ItemCol.Add(gridChars[fil][col]);
+                ItemColAux.Add(gridChars[fil][col]);
+            }     
+            ItemCol.Sort();            
+            while (idx < nx && ItemCol[idx].Equals(ItemColAux[idx]))
             {
-                k++;
+                idx++;               
             }
 
-            if(f - 1 != grid.Count) ordenado = false;
-            f ++;
-            k=0;
+            if(idx != nx) ordenado = false;
+            col ++;
+            idx=0;
+            ItemCol.Clear();
+            ItemColAux.Clear();
         }
-        return ordenado ? "YES" : "NO";
-
-            //foreach (string s in grid)
-            //{
-            //    Console.Write(s + " ");
-            //}
-            //Console.ReadKey();
-
+        return ordenado ? "YES" : "NO";        
             
     }
 
