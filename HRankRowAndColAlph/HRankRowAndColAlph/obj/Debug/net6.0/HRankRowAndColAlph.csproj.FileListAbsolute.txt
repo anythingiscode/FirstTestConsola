@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRowAndColAlph\HRankRowAndColAlph\obj\Debug\net6.0\HRankRowAndColAlph.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRowAndColAlph\HRankRowAndColAlph\obj\Debug\net6.0\HRankRowAndColAlph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRowAndColAlph\HRankRowAndColAlph\obj\Debug\net6.0\HRankRowAndColAlph.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRowAndColAlph\HRankRowAndColAlph\obj\Debug\net6.0\HRankRowAndColAlph.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRowAndColAlph\HRankRowAndColAlph\obj\Debug\net6.0\HRankRowAndColAlph.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRowAndColAlph\HRankRowAndColAlph\bin\Debug\net6.0\HRankRowAndColAlph.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRowAndColAlph\HRankRowAndColAlph\bin\Debug\net6.0\HRankRowAndColAlph.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRowAndColAlph\HRankRowAndColAlph\bin\Debug\net6.0\HRankRowAndColAlph.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRowAndColAlph\HRankRowAndColAlph\bin\Debug\net6.0\HRankRowAndColAlph.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRowAndColAlph\HRankRowAndColAlph\bin\Debug\net6.0\HRankRowAndColAlph.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRowAndColAlph\HRankRowAndColAlph\obj\Debug\net6.0\HRankRowAndColAlph.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRowAndColAlph\HRankRowAndColAlph\obj\Debug\net6.0\refint\HRankRowAndColAlph.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRowAndColAlph\HRankRowAndColAlph\obj\Debug\net6.0\HRankRowAndColAlph.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRowAndColAlph\HRankRowAndColAlph\obj\Debug\net6.0\HRankRowAndColAlph.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankRowAndColAlph\HRankRowAndColAlph\obj\Debug\net6.0\ref\HRankRowAndColAlph.dll
