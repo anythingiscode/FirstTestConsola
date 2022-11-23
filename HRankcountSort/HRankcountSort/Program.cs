@@ -47,52 +47,52 @@ class Result
 
     public static void countSort(List<List<string>> arr)
     {
-        //for (int i = 0; i < arr.Count / 2; i++)
-        //    arr[i][1] = "-";
-
-        //List<List<string>> result = new List<List<string>>();
-        //for (int i = 0; i < arr.Count; i++)
-        //    result.Add(new List<string>());
-
-        //for (int i = 0; i < arr.Count; i++)
-        //    result[int.Parse(arr[i][0])].Add(arr[i][1]);
-
-        //List<string> response = new List<string>();
-        //for (int i = 0; i < result.Count; i++)
-        //    if (result[i].Count > 0)
-        //        response.Add(string.Join(" ", result[i]));
-
-
-        //Console.WriteLine(response.Aggregate((a, b)
-        //    => a + " " + b));
-        int nx = arr.Count;
-        ItemList[] result = new ItemList[nx];
-        //ItemList Item = new ItemList();
-
-
-        for (int i = 0; i < nx / 2; i++)
-        {
+        for (int i = 0; i < arr.Count / 2; i++)
             arr[i][1] = "-";
-        }
-        for(int i = 0; i < nx; i++)
-        {
-            ItemList Item = new ItemList();
-            Item.Idx = Convert.ToInt32(arr[i][0]);
-            Item.Pos = arr[i][0];
-            Item.Str = arr[i][1];
-            result[i]= Item;
-            //result.Add( new ItemList(Convert.ToInt32(arr[i][0]), arr[i][0], arr[i][1]));
-            //result.Add(new ItemList(Item));
-        }
-        result.OrderBy(x => x.Idx);
-       
-       
 
-        foreach(var x in result)
-        {
-            Console.Write(Convert.ToString(x + " "));
-        }
-        Console.ReadKey();
+        List<List<string>> result = new List<List<string>>();
+        for (int i = 0; i < arr.Count; i++)
+            result.Add(new List<string>());
+
+        for (int i = 0; i < arr.Count; i++)
+            result[int.Parse(arr[i][0])].Add(arr[i][1]);
+
+
+        List<string> response = new List<string>();
+        for (int i = 0; i < result.Count; i++)
+            if (result[i].Count > 0)
+                response.Add(string.Join(" ", result[i]));
+
+
+        Console.WriteLine(response.Aggregate((a, b)
+            => a + " " + b));
+
+        //int nx = arr.Count;
+        //ItemList[] result = new ItemList[nx];
+        ////ItemList Item = new ItemList();
+
+
+        //for (int i = 0; i < nx / 2; i++)
+        //{
+        //    arr[i][1] = "-";
+        //}
+        //for(int i = 0; i < nx; i++)
+        //{
+        //    ItemList Item = new ItemList();
+        //    Item.Idx = Convert.ToInt32(arr[i][0]);
+        //    Item.Pos = arr[i][0];
+        //    Item.Str = arr[i][1];
+        //    result[i]= Item;
+        //    //result.Add( new ItemList(Convert.ToInt32(arr[i][0]), arr[i][0], arr[i][1]));
+        //    //result.Add(new ItemList(Item));
+        //}
+        //result.OrderBy(x => x.Pos);      
+
+        //foreach(var x in result)
+        //{
+        //    Console.Write(Convert.ToString(x.Str + " "));
+        //}
+        //Console.ReadKey();
 
     }
 
