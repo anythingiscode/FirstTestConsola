@@ -5,6 +5,7 @@ internal class Program
     private static void Main(string[] args)
     {
         TextWriter textWriter = new StreamWriter("FicheroEjercicio.txt");
+
         int T = Convert.ToInt32(Console.ReadLine().Trim());
 
         for (int TItr = 0; TItr < T; TItr++)
