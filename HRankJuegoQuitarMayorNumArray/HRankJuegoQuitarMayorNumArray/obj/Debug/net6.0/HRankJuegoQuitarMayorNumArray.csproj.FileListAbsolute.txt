@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankJuegoQuitarMayorNumArray\HRankJuegoQuitarMayorNumArray\bin\Debug\net6.0\HRankJuegoQuitarMayorNumArray.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankJuegoQuitarMayorNumArray\HRankJuegoQuitarMayorNumArray\bin\Debug\net6.0\HRankJuegoQuitarMayorNumArray.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankJuegoQuitarMayorNumArray\HRankJuegoQuitarMayorNumArray\bin\Debug\net6.0\HRankJuegoQuitarMayorNumArray.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankJuegoQuitarMayorNumArray\HRankJuegoQuitarMayorNumArray\bin\Debug\net6.0\HRankJuegoQuitarMayorNumArray.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankJuegoQuitarMayorNumArray\HRankJuegoQuitarMayorNumArray\bin\Debug\net6.0\HRankJuegoQuitarMayorNumArray.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankJuegoQuitarMayorNumArray\HRankJuegoQuitarMayorNumArray\obj\Debug\net6.0\HRankJuegoQuitarMayorNumArray.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankJuegoQuitarMayorNumArray\HRankJuegoQuitarMayorNumArray\obj\Debug\net6.0\HRankJuegoQuitarMayorNumArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankJuegoQuitarMayorNumArray\HRankJuegoQuitarMayorNumArray\obj\Debug\net6.0\HRankJuegoQuitarMayorNumArray.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankJuegoQuitarMayorNumArray\HRankJuegoQuitarMayorNumArray\obj\Debug\net6.0\HRankJuegoQuitarMayorNumArray.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankJuegoQuitarMayorNumArray\HRankJuegoQuitarMayorNumArray\obj\Debug\net6.0\HRankJuegoQuitarMayorNumArray.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankJuegoQuitarMayorNumArray\HRankJuegoQuitarMayorNumArray\obj\Debug\net6.0\HRankJuegoQuitarMayorNumArray.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankJuegoQuitarMayorNumArray\HRankJuegoQuitarMayorNumArray\obj\Debug\net6.0\refint\HRankJuegoQuitarMayorNumArray.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankJuegoQuitarMayorNumArray\HRankJuegoQuitarMayorNumArray\obj\Debug\net6.0\HRankJuegoQuitarMayorNumArray.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankJuegoQuitarMayorNumArray\HRankJuegoQuitarMayorNumArray\obj\Debug\net6.0\HRankJuegoQuitarMayorNumArray.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankJuegoQuitarMayorNumArray\HRankJuegoQuitarMayorNumArray\obj\Debug\net6.0\ref\HRankJuegoQuitarMayorNumArray.dll
