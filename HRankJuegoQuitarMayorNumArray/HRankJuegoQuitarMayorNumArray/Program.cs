@@ -41,6 +41,24 @@ class Result
 
     public static string gamingArray(List<int> arr)
     {
+
+        int nx = arr.Capacity;
+        int cont = 0, i = 0;
+        int max = arr.Max();
+        while (nx > 1)
+        {
+            while (arr[i] < max) i++;
+            if (i==0) return ((cont + 1) % 2 == 0) ? "ANDY" : "BOB";
+            arr = arr.GetRange(0, nx - (nx - i));
+            nx = arr.Count;
+            max = arr.Max();
+            cont++;
+            i = 0;
+        }
+
+        return ((cont + 1) % 2 == 0) ? "ANDY" : "BOB";
+
+        /* Funciona pero es demasiado lento
         int nx = arr.Capacity;
         int cont = 0;
         while (nx > 0)
@@ -51,6 +69,7 @@ class Result
         }
             
         return (cont % 2 == 0) ? "ANDY" : "BOB";
+        */
     }
 
 }
