@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumIzqDrcha=\HRankSumIzqDrcha=\bin\Debug\net6.0\HRankSumIzqDrcha=.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumIzqDrcha=\HRankSumIzqDrcha=\bin\Debug\net6.0\HRankSumIzqDrcha=.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumIzqDrcha=\HRankSumIzqDrcha=\bin\Debug\net6.0\HRankSumIzqDrcha=.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumIzqDrcha=\HRankSumIzqDrcha=\bin\Debug\net6.0\HRankSumIzqDrcha=.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumIzqDrcha=\HRankSumIzqDrcha=\bin\Debug\net6.0\HRankSumIzqDrcha=.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumIzqDrcha=\HRankSumIzqDrcha=\obj\Debug\net6.0\HRankSumIzqDrcha=.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumIzqDrcha=\HRankSumIzqDrcha=\obj\Debug\net6.0\HRankSumIzqDrcha=.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumIzqDrcha=\HRankSumIzqDrcha=\obj\Debug\net6.0\HRankSumIzqDrcha=.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumIzqDrcha=\HRankSumIzqDrcha=\obj\Debug\net6.0\HRankSumIzqDrcha=.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumIzqDrcha=\HRankSumIzqDrcha=\obj\Debug\net6.0\HRankSumIzqDrcha=.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumIzqDrcha=\HRankSumIzqDrcha=\obj\Debug\net6.0\HRankSumIzqDrcha=.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumIzqDrcha=\HRankSumIzqDrcha=\obj\Debug\net6.0\refint\HRankSumIzqDrcha=.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumIzqDrcha=\HRankSumIzqDrcha=\obj\Debug\net6.0\HRankSumIzqDrcha=.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumIzqDrcha=\HRankSumIzqDrcha=\obj\Debug\net6.0\HRankSumIzqDrcha=.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumIzqDrcha=\HRankSumIzqDrcha=\obj\Debug\net6.0\ref\HRankSumIzqDrcha=.dll

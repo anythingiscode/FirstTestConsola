@@ -35,15 +35,15 @@ class Result
 
     public static string balancedSums(List<int> arr)
     {
-        int nx = arr.Count;
+        int nx = arr.Capacity;
         int sumIzq = 0, sumDcha = 0;
         List<int> arrIzq = new List<int>();
-        List<int> arrDcha = new List<int>();
+        List<int> arrDcha = new List<int>();        
 
-        for (int i = 2; i < nx - 1; i++)
+        for (int i = 1; i < nx - 1; i++)
         {
-            arrIzq = arr.GetRange(0,i - 1);
-            arrDcha = arr.GetRange(i + 1, nx);
+            arrIzq = arr.GetRange(0,i);
+            arrDcha = arr.GetRange(i + 1, nx - i - 2);
             sumIzq = arrIzq.Sum();
             sumDcha = arrDcha.Sum();
             if (sumIzq == sumDcha) return "YES";
