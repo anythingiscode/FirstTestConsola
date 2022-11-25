@@ -41,7 +41,20 @@ class Result
 
     public static string gamingArray(List<int> arr)
     {
+        //Estrategia de contar cuantos max hay y ver si son un num impar o par
+        int cont = 0;
+        int max = arr[0];
+        for(int i= 1; i < arr.Count; i++)
+        {
+            if (arr[i] > max)
+            {
+                max = arr[i];
+                cont++;
+            }
+        }
+        return (cont % 2 == 0) ? "BOB" : "ANDY";
 
+        /* Funciona pero es demasiado lento
         int nx = arr.Capacity;
         int cont = 0, i = 0;
         int max = arr.Max();
@@ -49,13 +62,13 @@ class Result
         {
             while (arr[i] < max) i++;
             if (i==0) return ((cont + 1) % 2 == 0) ? "ANDY" : "BOB";
-            arr = arr.GetRange(0, nx - (nx - i));
+            //arr = arr.GetRange(0, nx - (nx - i));
+            arr.RemoveRange(arr.IndexOf(max),nx -i);            
             nx = arr.Count;
             max = arr.Max();
             cont++;
             i = 0;
         }
-
         return ((cont + 1) % 2 == 0) ? "ANDY" : "BOB";
 
         /* Funciona pero es demasiado lento
