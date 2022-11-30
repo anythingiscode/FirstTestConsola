@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaRecursiva\HRankSumaRecursiva\bin\Debug\net6.0\HRankSumaRecursiva.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaRecursiva\HRankSumaRecursiva\bin\Debug\net6.0\HRankSumaRecursiva.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaRecursiva\HRankSumaRecursiva\bin\Debug\net6.0\HRankSumaRecursiva.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaRecursiva\HRankSumaRecursiva\bin\Debug\net6.0\HRankSumaRecursiva.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaRecursiva\HRankSumaRecursiva\bin\Debug\net6.0\HRankSumaRecursiva.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaRecursiva\HRankSumaRecursiva\obj\Debug\net6.0\HRankSumaRecursiva.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaRecursiva\HRankSumaRecursiva\obj\Debug\net6.0\HRankSumaRecursiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaRecursiva\HRankSumaRecursiva\obj\Debug\net6.0\HRankSumaRecursiva.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaRecursiva\HRankSumaRecursiva\obj\Debug\net6.0\HRankSumaRecursiva.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaRecursiva\HRankSumaRecursiva\obj\Debug\net6.0\HRankSumaRecursiva.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaRecursiva\HRankSumaRecursiva\obj\Debug\net6.0\HRankSumaRecursiva.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaRecursiva\HRankSumaRecursiva\obj\Debug\net6.0\refint\HRankSumaRecursiva.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaRecursiva\HRankSumaRecursiva\obj\Debug\net6.0\HRankSumaRecursiva.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaRecursiva\HRankSumaRecursiva\obj\Debug\net6.0\HRankSumaRecursiva.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumaRecursiva\HRankSumaRecursiva\obj\Debug\net6.0\ref\HRankSumaRecursiva.dll
