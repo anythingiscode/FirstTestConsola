@@ -15,6 +15,8 @@ internal class Program
         int result = Result.superDigit(n, k);
 
         textWriter.WriteLine(result);
+        Console.WriteLine(result);
+        Console.ReadLine();
 
         textWriter.Flush();
         textWriter.Close();
@@ -30,41 +32,38 @@ class Result
      * The function accepts following parameters:
      *  1. STRING n
      *  2. INTEGER k
+     *  Nota: 
+        char foo = '2';
+        int bar = foo - '0';
+        This works because each character is internally represented by a number. 
+        The characters '0' to '9' are represented by consecutive numbers,
+        so finding the difference between the characters '0' and '2' results in the number 2.
      */
 
     public static int superDigit(string n, int k)
     {
-        List<string> aux = new List<string>();
-        List<int> superD = new List<int>();
-        
-        int sum = 0;
-        string p = string.Empty;
-
-        for(int i = 0; i < k; i++)       
-            p += n;
-        
-        foreach (var c in p)
-            aux.Add(Convert.ToString(c));
-
-        for (int i = 0; i < p.Length; i++)
-            superD.Add(Int32.Parse(aux[i]));
+        long sum = 0;
+   
+        for (int i = 0; i < n.Length; i++)
+        {
+            sum += (n[i] - '0');
+        }
+        sum *= k;            
         
         do
-        {
-            sum = superD.Sum();
+        {            
             if (sum > 10)
-            {
-                superD.Clear();
-                aux.Clear();
-                p = Convert.ToString(sum);
-                foreach (var c in p)
-                    aux.Add(Convert.ToString(c));
-                for (int i = 0; i < p.Length; i++)
-                    superD.Add(Int32.Parse(aux[i]));
+            {                           
+                n = Convert.ToString(sum);
+                sum= 0;
+                for (int i = 0; i < n.Length; i++)
+                {                
+                    sum += (n[i] - '0');
+                }                
             }            
         }
         while (sum > 10);
-        return sum;
+        return Convert.ToInt32(sum);
     }
 
 }
