@@ -34,24 +34,37 @@ class Result
 
     public static int superDigit(string n, int k)
     {
-        List<int> superD = new List<int>();
         List<string> aux = new List<string>();
-        foreach (var c in n)
-            aux.Add(Convert.ToString(c));
-        for (int i = 0; i < n.Length; i++)
-        {
-            superD.Add(Int32.Parse(aux[i]));
-        }
+        List<int> superD = new List<int>();
         
-            Console.WriteLine(Int32.Parse(x));
-        Console.ReadKey();
-        if(n.Length == 1 && k ==1) return Convert.ToInt32(n);
-        else
+        int sum = 0;
+        string p = string.Empty;
+
+        for(int i = 0; i < k; i++)       
+            p += n;
+        
+        foreach (var c in p)
+            aux.Add(Convert.ToString(c));
+
+        for (int i = 0; i < p.Length; i++)
+            superD.Add(Int32.Parse(aux[i]));
+        
+        do
         {
-
+            sum = superD.Sum();
+            if (sum > 10)
+            {
+                superD.Clear();
+                aux.Clear();
+                p = Convert.ToString(sum);
+                foreach (var c in p)
+                    aux.Add(Convert.ToString(c));
+                for (int i = 0; i < p.Length; i++)
+                    superD.Add(Int32.Parse(aux[i]));
+            }            
         }
-        return 0;
-
+        while (sum > 10);
+        return sum;
     }
 
 }
