@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HRankNumPotencia2/1.0.0": {
+        "runtime": {
+          "HRankNumPotencia2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HRankNumPotencia2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

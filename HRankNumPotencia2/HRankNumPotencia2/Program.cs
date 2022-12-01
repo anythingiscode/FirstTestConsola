@@ -12,6 +12,8 @@ for (int tItr = 0; tItr < t; tItr++)
     string result = Result.counterGame(n);
 
     textWriter.WriteLine(result);
+    Console.WriteLine(result);
+    Console.ReadKey();
 }
 
 textWriter.Flush();
@@ -29,35 +31,32 @@ class Result
     public static string counterGame(long n)
     {
         int cont = 0;
-        byte nb = Convert.ToByte(n);
 
         if (n == 0) return "Louise";
         else
         {
             while (n > 1)
             {          
-                if (nb * (nb - 1) == 0)
+                if ((n & (n - 1)) == 0)
                 {
                     n /= 2;
-                    nb = Convert.ToByte(n);
                 }
                 else
                 {
                     n--;
                     while (n > 1)
-                    {                      
-                        nb = Convert.ToByte(n);
-                        if (nb * (nb - 1) == 0)
+                    {                   
+                        if ((n * (n - 1)) == 0)
                             n = Convert.ToInt32(n);
                         else
-                            n--;
+                            n--;                    
                     }
                 }
                 n--;
                 cont++;
             }
         }
-        return (cont % 2 == 0)? "Richard" : "Louise";
+        return (cont % 2 == 0)? "Louise" : "Richard";
     }
 
 }
