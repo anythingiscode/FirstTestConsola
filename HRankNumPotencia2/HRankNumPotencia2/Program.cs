@@ -43,20 +43,29 @@ class Result
                 }
                 else
                 {
-                    n--;
-                    while (n > 1)
-                    {                   
-                        if ((n * (n - 1)) == 0)
-                            n = Convert.ToInt32(n);
-                        else
-                            n--;                    
+                    long potencia = 0;
+                    for(int i = 0; potencia < n; i++)
+                    {
+                        long aux = Convert.ToInt64(Math.Pow(2, i));
+                        if (aux < n) potencia = aux;
+                        else break;
                     }
-                }
-                n--;
+                    n -= potencia;
+
+                    //n--;
+                    //while (n > 1)
+                    //{                   
+                    //    if ((n * (n - 1)) == 0)
+                    //        n = Convert.ToInt32(n);
+                    //    else
+                    //        n--;                    
+                    //}
+                    
+                }                
                 cont++;
             }
         }
-        return (cont % 2 == 0)? "Louise" : "Richard";
+        return (cont % 2 == 0) ? "Richard" : "Louise";
     }
 
 }
