@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTheBombermanGame\HRankTheBombermanGame\obj\Debug\net6.0\HRankTheBombermanGame.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTheBombermanGame\HRankTheBombermanGame\obj\Debug\net6.0\HRankTheBombermanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTheBombermanGame\HRankTheBombermanGame\obj\Debug\net6.0\HRankTheBombermanGame.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTheBombermanGame\HRankTheBombermanGame\obj\Debug\net6.0\HRankTheBombermanGame.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTheBombermanGame\HRankTheBombermanGame\obj\Debug\net6.0\HRankTheBombermanGame.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTheBombermanGame\HRankTheBombermanGame\bin\Debug\net6.0\HRankTheBombermanGame.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTheBombermanGame\HRankTheBombermanGame\bin\Debug\net6.0\HRankTheBombermanGame.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTheBombermanGame\HRankTheBombermanGame\bin\Debug\net6.0\HRankTheBombermanGame.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTheBombermanGame\HRankTheBombermanGame\bin\Debug\net6.0\HRankTheBombermanGame.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTheBombermanGame\HRankTheBombermanGame\bin\Debug\net6.0\HRankTheBombermanGame.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTheBombermanGame\HRankTheBombermanGame\obj\Debug\net6.0\HRankTheBombermanGame.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTheBombermanGame\HRankTheBombermanGame\obj\Debug\net6.0\refint\HRankTheBombermanGame.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTheBombermanGame\HRankTheBombermanGame\obj\Debug\net6.0\HRankTheBombermanGame.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTheBombermanGame\HRankTheBombermanGame\obj\Debug\net6.0\HRankTheBombermanGame.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankTheBombermanGame\HRankTheBombermanGame\obj\Debug\net6.0\ref\HRankTheBombermanGame.dll
