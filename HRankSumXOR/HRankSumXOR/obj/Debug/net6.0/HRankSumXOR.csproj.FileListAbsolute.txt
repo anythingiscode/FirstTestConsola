@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\bin\Debug\net6.0\HRankSumXOR.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\bin\Debug\net6.0\HRankSumXOR.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\bin\Debug\net6.0\HRankSumXOR.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\bin\Debug\net6.0\HRankSumXOR.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\bin\Debug\net6.0\HRankSumXOR.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\refint\HRankSumXOR.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\ref\HRankSumXOR.dll

@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\bin\Debug\net6.0\HRankSumXOR-palindrome.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\bin\Debug\net6.0\HRankSumXOR-palindrome.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\bin\Debug\net6.0\HRankSumXOR-palindrome.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\bin\Debug\net6.0\HRankSumXOR-palindrome.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\bin\Debug\net6.0\HRankSumXOR-palindrome.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR-palindrome.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR-palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR-palindrome.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR-palindrome.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR-palindrome.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR-palindrome.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\refint\HRankSumXOR-palindrome.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR-palindrome.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\HRankSumXOR-palindrome.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankSumXOR\HRankSumXOR\obj\Debug\net6.0\ref\HRankSumXOR-palindrome.dll
