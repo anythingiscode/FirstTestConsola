@@ -44,28 +44,37 @@ class Result
     public static List<string> bomberMan(int n, List<string> grid)
     {
         if (n == 1) return grid;
-        List<string> result = new List<string>();
-        string strFull= string.Empty;
-        foreach(char c in grid[0])
-        {
-            strFull += '0';
-        }        
+        List<string> fullGrid = new List<string>();
+        string strFull = new string('0', grid[0].Length);
         foreach (string gridItem in grid)
         {
-            result.Add(strFull);
-        }        
-        if(n % 2 == 0) return result;          
-        for(int s = 3; s < n; s++)
-        {            
-            for(int i = 0; i < grid.Count; i++)
-            {
-                
-            }
+            fullGrid.Add(strFull);
         }
-        return result;
-
-        Console.WriteLine();
-        Console.ReadKey();
+        if (n % 2 == 0) return fullGrid;
+        string strResult = string.Empty;
+        for (int s = 3; s <= n; s+=2)
+        {            
+            for (int i = 1; i < grid.Count; i++)
+            {
+                for (int j = 0; j < grid[i].Length; j++)
+                {
+                    if (grid[0][j] == '.' && grid[1][j] == '.')
+                    {
+                        strResult += '0';
+                    }
+                    else
+                    {
+                        strResult += '.';
+                    }
+                }
+                grid.Add(strResult);
+                grid.Remove(grid[0]);
+                strResult = string.Empty;
+            }            
+        }
+        return grid;
     }
-
 }
+
+
+
