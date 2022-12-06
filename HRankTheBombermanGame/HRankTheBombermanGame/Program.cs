@@ -24,7 +24,7 @@ internal class Program
         List<string> result = Result.bomberMan(n, grid);
 
         textWriter.WriteLine(String.Join("\n", result));
-        Console.WriteLine("\n\nel resultado :");
+        Console.WriteLine("\n\nEl resultado :");
         foreach (var tx in result)
             Console.WriteLine(tx);
         Console.ReadKey();
@@ -47,8 +47,8 @@ class Result
 
     public static List<string> bomberMan(int n, List<string> grid)
     {
-        if (n == 1) return grid;
-        int filas = grid.Count;
+        if (n == 1 || n == 0) return grid;
+        int filas = grid.Count, col = grid[0].Length;
         int arriba = 0, abajo = 0, delante = 0, detras = 0;
         List<string> fullGrid = new List<string>();
         string strFull = new string('O', grid[0].Length);
@@ -58,39 +58,51 @@ class Result
         }
         if (n % 2 == 0) return fullGrid;
         string strResult = string.Empty;
+        n = ((n - 3) % 4) + 3;  // La clave esté en el calculo de 'n' ya que el patrón se repite entre n=3 y n=6
         for (int s = 3; s <= n; s+=2)
         {            
             for (int i = 0; i < filas; i++)
             {
-                if (i == 0)
-                { 
-                    abajo = 1;
-                    arriba = 0;                    
-                }else if (i == filas - 1)
+                if (filas == 1)
+                {
+                    arriba = 0;
+                    abajo = 0;
+                }
+                else if (i > 0 && i < filas - 1)
                 {
                     arriba = 1;
-                    abajo = 0;
+                    abajo = 1;
+                                       
+                }else if (i == 0)
+                {
+                    arriba = 0;
+                    abajo = 1;                   
                 }
                 else
                 {
                     arriba = 1;
-                    abajo = 1;
+                    abajo = 0;
                 }
-                for (int j = 0; j < grid[0].Length; j++)
+                for (int j = 0; j < col; j++)
                 {
-                    if(j == 0)
-                    {
-                        delante = 1;
-                        detras = 0;
-                    }
-                    else if (j == grid[0].Length - 1)
+                    if(col == 1)
                     {
                         delante = 0;
+                        detras = 0;
+                    }
+                    else if(j > 0 && j < col - 1)
+                    {
+                        delante = 1;
                         detras = 1;
+                    }
+                    else if (j == 0)
+                    {
+                        delante = 1;
+                        detras = 0;                        
                     }
                     else
                     {
-                        delante = 1;
+                        delante = 0;
                         detras = 1;
                     }
                     if (grid[i][j] == '.' && grid[i + abajo][j] == '.' && grid[i - arriba][j] == '.' && grid[i][j - detras] == '.' && grid[i][j + delante] == '.') 
