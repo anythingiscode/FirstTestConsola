@@ -24,6 +24,10 @@ internal class Program
         List<string> result = Result.bomberMan(n, grid);
 
         textWriter.WriteLine(String.Join("\n", result));
+        Console.WriteLine("\n\nel resultado :");
+        foreach (var tx in result)
+            Console.WriteLine(tx);
+        Console.ReadKey();
 
         textWriter.Flush();
         textWriter.Close();
@@ -44,6 +48,7 @@ class Result
     public static List<string> bomberMan(int n, List<string> grid)
     {
         if (n == 1) return grid;
+        int filas = grid.Count;
         List<string> fullGrid = new List<string>();
         string strFull = new string('0', grid[0].Length);
         foreach (string gridItem in grid)
@@ -54,23 +59,23 @@ class Result
         string strResult = string.Empty;
         for (int s = 3; s <= n; s+=2)
         {            
-            for (int i = 1; i < grid.Count; i++)
+            for (int i = 0; i < filas; i++)
             {
-                for (int j = 0; j < grid[i].Length; j++)
+                for (int j = 0; j < grid[0].Length; j++)
                 {
-                    if (grid[0][j] == '.' && grid[1][j] == '.')
+                    if (j == grid[i].Length - 1)
                     {
-                        strResult += '0';
+                        if (grid[0][j] == '.' && grid[1][j] == '.' && grid[0][j - 1] == '.') strResult += '0';
+                        else strResult += '.';
                     }
-                    else
-                    {
-                        strResult += '.';
-                    }
+                    else if (grid[0][j] == '.' && grid[0][j + 1] == '.' && grid[1][j] == '.') strResult += '0';
+                    else strResult += '.';                    
                 }
-                grid.Add(strResult);
-                grid.Remove(grid[0]);
+                Console.WriteLine(strResult);
+                grid.Add(strResult);                
                 strResult = string.Empty;
-            }            
+            }   
+            for(int i = 0; i < grid.Count; i++) grid.Remove(grid[i]);
         }
         return grid;
     }
