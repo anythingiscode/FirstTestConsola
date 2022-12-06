@@ -49,8 +49,9 @@ class Result
     {
         if (n == 1) return grid;
         int filas = grid.Count;
+        int arriba = 0, abajo = 0, delante = 0, detras = 0;
         List<string> fullGrid = new List<string>();
-        string strFull = new string('0', grid[0].Length);
+        string strFull = new string('O', grid[0].Length);
         foreach (string gridItem in grid)
         {
             fullGrid.Add(strFull);
@@ -61,21 +62,46 @@ class Result
         {            
             for (int i = 0; i < filas; i++)
             {
+                if (i == 0)
+                { 
+                    abajo = 1;
+                    arriba = 0;                    
+                }else if (i == filas - 1)
+                {
+                    arriba = 1;
+                    abajo = 0;
+                }
+                else
+                {
+                    arriba = 1;
+                    abajo = 1;
+                }
                 for (int j = 0; j < grid[0].Length; j++)
                 {
-                    if (j == grid[i].Length - 1)
+                    if(j == 0)
                     {
-                        if (grid[0][j] == '.' && grid[1][j] == '.' && grid[0][j - 1] == '.') strResult += '0';
-                        else strResult += '.';
+                        delante = 1;
+                        detras = 0;
                     }
-                    else if (grid[0][j] == '.' && grid[0][j + 1] == '.' && grid[1][j] == '.') strResult += '0';
-                    else strResult += '.';                    
-                }
-                Console.WriteLine(strResult);
+                    else if (j == grid[0].Length - 1)
+                    {
+                        delante = 0;
+                        detras = 1;
+                    }
+                    else
+                    {
+                        delante = 1;
+                        detras = 1;
+                    }
+                    if (grid[i][j] == '.' && grid[i + abajo][j] == '.' && grid[i - arriba][j] == '.' && grid[i][j - detras] == '.' && grid[i][j + delante] == '.') 
+                        strResult += 'O';
+                    else 
+                        strResult += '.';                                   
+                }                
                 grid.Add(strResult);                
                 strResult = string.Empty;
             }   
-            for(int i = 0; i < grid.Count; i++) grid.Remove(grid[i]);
+            for(int i = 0; i < grid.Count; i++) grid.Remove(grid[0]);
         }
         return grid;
     }
