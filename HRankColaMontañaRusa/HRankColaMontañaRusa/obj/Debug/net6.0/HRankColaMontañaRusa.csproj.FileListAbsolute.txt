@@ -1,0 +1,15 @@
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankColaMontañaRusa\HRankColaMontañaRusa\bin\Debug\net6.0\HRankColaMontañaRusa.exe
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankColaMontañaRusa\HRankColaMontañaRusa\bin\Debug\net6.0\HRankColaMontañaRusa.deps.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankColaMontañaRusa\HRankColaMontañaRusa\bin\Debug\net6.0\HRankColaMontañaRusa.runtimeconfig.json
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankColaMontañaRusa\HRankColaMontañaRusa\bin\Debug\net6.0\HRankColaMontañaRusa.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankColaMontañaRusa\HRankColaMontañaRusa\bin\Debug\net6.0\HRankColaMontañaRusa.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankColaMontañaRusa\HRankColaMontañaRusa\obj\Debug\net6.0\HRankColaMontañaRusa.csproj.AssemblyReference.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankColaMontañaRusa\HRankColaMontañaRusa\obj\Debug\net6.0\HRankColaMontañaRusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankColaMontañaRusa\HRankColaMontañaRusa\obj\Debug\net6.0\HRankColaMontañaRusa.AssemblyInfoInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankColaMontañaRusa\HRankColaMontañaRusa\obj\Debug\net6.0\HRankColaMontañaRusa.AssemblyInfo.cs
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankColaMontañaRusa\HRankColaMontañaRusa\obj\Debug\net6.0\HRankColaMontañaRusa.csproj.CoreCompileInputs.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankColaMontañaRusa\HRankColaMontañaRusa\obj\Debug\net6.0\HRankColaMontañaRusa.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankColaMontañaRusa\HRankColaMontañaRusa\obj\Debug\net6.0\refint\HRankColaMontañaRusa.dll
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankColaMontañaRusa\HRankColaMontañaRusa\obj\Debug\net6.0\HRankColaMontañaRusa.pdb
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankColaMontañaRusa\HRankColaMontañaRusa\obj\Debug\net6.0\HRankColaMontañaRusa.genruntimeconfig.cache
+C:\Users\ROL\source\repos\anythingiscode\FirstTestConsola\HRankColaMontañaRusa\HRankColaMontañaRusa\obj\Debug\net6.0\ref\HRankColaMontañaRusa.dll
